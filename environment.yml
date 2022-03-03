@@ -1,0 +1,16 @@
+name: TopicTracker
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas=1.2.1
+  - IPython=7.19.0
+  - tqdm=4.55.1
+  - matplotlib=3.3.3
+  - spacy=2.3.5
+  - wordcloud=1.8.1
+  - nbserverproxy
+  - pip
+  - pip:
+    - jupyter-server-proxy
+    - shutils==0.1.0
