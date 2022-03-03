@@ -1,0 +1,516 @@
+;journal;df_2010;df_2011;df_2012;df_2013;df_2014;df_2015;df_2016;df_2017;df_2018;df_2019;df_2020;total;min;std;mean;max
+1;american journal of transplantation : official journal of the american society of transplantation and the american society of transplant surgeons;11;4;9;4;10;19;33;38;30;33;36;227;4;13.52;20.64;38
+2;transplantation;6;8;10;5;11;9;10;12;8;7;7;93;5;2.16;8.45;12
+3;journal of medical ethics;4;4;4;6;11;10;10;8;6;8;7;78;4;2.55;7.09;11
+4;transplantation proceedings;9;14;7;6;5;7;1;3;6;9;6;73;1;3.38;6.64;14
+5;the american journal of bioethics : ajob;12;20;8;0;5;6;2;1;3;1;1;59;0;6.07;5.36;20
+6;bmj open;0;0;0;1;0;8;4;10;5;14;8;50;0;4.89;4.55;14
+7;bioethics;2;1;2;2;4;3;3;2;10;3;1;33;1;2.49;3.0;10
+8;cambridge quarterly of healthcare ethics : cq : the international journal of healthcare ethics committees;2;4;3;8;1;0;3;0;4;3;0;28;0;2.38;2.55;8
+9;liver transplantation : official publication of the american association for the  study of liver diseases and the international liver transplantation society;4;4;1;5;2;5;1;3;2;0;0;27;0;1.86;2.45;5
+10;progress in transplantation (aliso viejo, calif.);5;2;2;1;3;0;3;4;2;4;1;27;0;1.51;2.45;5
+11;clinical transplantation;1;2;1;5;2;2;0;3;6;3;2;27;0;1.75;2.45;6
+12;current opinion in organ transplantation;3;0;2;1;5;0;0;6;3;3;4;27;0;2.07;2.45;6
+13;transplant international : official journal of the european society for organ transplantation;0;2;1;2;4;0;9;3;2;1;3;27;0;2.5;2.45;9
+14;ama journal of ethics;0;0;0;0;0;1;10;0;3;10;1;25;0;3.93;2.27;10
+15;medicine, health care, and philosophy;2;0;3;4;2;0;6;0;3;4;1;25;0;1.95;2.27;6
+16;pediatric transplantation;0;0;3;0;2;2;2;5;3;5;1;23;0;1.81;2.09;5
+17;the journal of medicine and philosophy;6;0;1;2;1;0;2;7;0;3;0;22;0;2.45;2.0;7
+18;american journal of kidney diseases : the official journal of the national kidney foundation;1;3;0;1;3;6;0;1;3;1;2;21;0;1.76;1.91;6
+19;the hastings center report;1;0;1;3;1;3;1;0;11;0;0;21;0;3.21;1.91;11
+20;bmc medical ethics;1;0;1;3;2;1;1;4;3;2;2;20;0;1.17;1.82;4
+21;the journal of clinical ethics;3;0;6;2;1;1;1;1;2;2;1;20;0;1.6;1.82;6
+22;narrative inquiry in bioethics;0;0;17;0;0;0;0;0;1;1;0;19;0;5.08;1.73;17
+23;the journal of heart and lung transplantation : the official publication of the international society for heart transplantation;0;1;3;2;1;1;3;1;0;3;2;17;0;1.13;1.55;3
+24;journal of hepatology;0;4;2;0;3;1;0;0;3;1;1;15;0;1.43;1.36;4
+25;indian journal of medical ethics;1;1;0;0;7;0;2;2;1;0;0;14;0;2.05;1.27;7
+26;xenotransplantation;0;0;0;1;1;5;2;1;3;0;1;14;0;1.56;1.27;5
+27;lancet (london, england);0;5;1;0;1;2;0;1;1;1;1;13;0;1.4;1.18;5
+28;plastic and reconstructive surgery;2;1;1;1;0;0;3;0;4;1;0;13;0;1.33;1.18;4
+29;pediatrics;2;1;0;3;1;0;0;1;0;1;4;13;0;1.33;1.18;4
+30;clinical journal of the american society of nephrology : cjasn;2;1;1;2;0;2;0;1;2;0;0;11;0;0.89;1.0;2
+31;annals of transplantation;2;0;2;0;2;1;0;0;3;0;0;10;0;1.14;0.91;3
+32;jama;1;2;0;1;0;2;1;1;0;1;1;10;0;0.7;0.91;2
+33;bmj (clinical research ed.);0;4;2;2;0;1;1;0;0;0;0;10;0;1.3;0.91;4
+34;nursing ethics;1;1;0;0;1;1;1;0;1;4;0;10;0;1.14;0.91;4
+35;experimental and clinical transplantation : official journal of the middle east society for organ transplantation;0;2;0;1;1;1;1;1;1;0;1;9;0;0.6;0.82;2
+36;saudi journal of kidney diseases and transplantation : an official publication of the saudi center for organ transplantation, saudi arabia;2;0;2;1;1;0;1;0;1;0;1;9;0;0.75;0.82;2
+37;intensive care medicine;2;0;0;0;1;3;1;0;0;2;0;9;0;1.08;0.82;3
+38;critical care medicine;6;2;0;1;0;0;0;0;0;0;0;9;0;1.83;0.82;6
+39;the annals of thoracic surgery;0;2;0;0;1;0;3;1;0;2;0;9;0;1.08;0.82;3
+40;radiology;0;2;0;2;1;2;2;0;0;0;0;9;0;0.98;0.82;2
+41;the virtual mentor : vm;0;0;8;0;0;0;0;0;0;0;0;8;0;2.41;0.73;8
+42;world journal of gastroenterology;0;1;2;1;0;0;2;0;2;0;0;8;0;0.9;0.73;2
+43;annals of internal medicine;3;0;0;3;0;0;1;0;0;0;0;7;0;1.21;0.64;3
+44;revue medicale suisse;0;0;0;1;1;1;2;0;0;0;2;7;0;0.81;0.64;2
+45;la clinica terapeutica;0;0;0;2;1;2;1;1;0;0;0;7;0;0.81;0.64;2
+46;medizinische klinik, intensivmedizin und notfallmedizin;0;0;1;0;1;1;0;0;0;4;0;7;0;1.21;0.64;4
+47;the journal of law, medicine & ethics : a journal of the american society of law, medicine & ethics;0;0;1;0;0;0;1;1;2;2;0;7;0;0.81;0.64;2
+48;monash bioethics review;0;0;0;0;1;2;1;1;1;1;0;7;0;0.67;0.64;2
+49;advances in chronic kidney disease;0;1;5;0;0;0;0;0;0;0;0;6;0;1.51;0.55;5
+50;anesthesia and analgesia;4;0;0;0;0;1;0;0;0;1;0;6;0;1.21;0.55;4
+51;the new bioethics : a multidisciplinary journal of biotechnology and the body;0;0;0;2;1;0;0;1;0;1;1;6;0;0.69;0.55;2
+52;theoretical medicine and bioethics;0;1;0;1;1;0;1;0;1;1;0;6;0;0.52;0.55;1
+53;plos one;0;0;0;1;0;0;1;1;1;2;0;6;0;0.69;0.55;2
+54;bone marrow transplantation;1;4;0;0;0;0;0;0;0;0;0;5;0;1.21;0.45;4
+55;nefrologia : publicacion oficial de la sociedad espanola nefrologia;3;1;1;0;0;0;0;0;0;0;0;5;0;0.93;0.45;3
+56;annali dell'istituto superiore di sanita;0;0;0;0;0;0;0;2;1;2;0;5;0;0.82;0.45;2
+57;transplantation reviews (orlando, fla.);0;0;0;0;1;0;0;0;1;2;1;5;0;0.69;0.45;2
+58;science (new york, n.y.);0;0;0;1;1;2;1;0;0;0;0;5;0;0.69;0.45;2
+59;transplantation direct;0;0;0;0;0;0;2;0;1;0;2;5;0;0.82;0.45;2
+60;fertility and sterility;1;0;0;2;1;0;0;0;1;0;0;5;0;0.69;0.45;2
+61;journal of the national medical association;3;0;1;0;0;0;0;0;0;1;0;5;0;0.93;0.45;3
+62;"soins; la revue de reference infirmiere";0;0;1;0;0;0;0;0;2;2;0;5;0;0.82;0.45;2
+63;perspectives in biology and medicine;1;0;2;0;0;1;0;1;0;0;0;5;0;0.69;0.45;2
+64;developing world bioethics;0;0;1;0;0;1;1;0;2;0;0;5;0;0.69;0.45;2
+65;world journal of surgery;1;0;0;0;3;0;0;0;0;1;0;5;0;0.93;0.45;3
+66;european journal of health law;2;0;0;1;0;1;1;0;0;0;0;5;0;0.69;0.45;2
+67;methods in molecular biology (clifton, n.j.);0;0;1;0;0;0;0;2;0;1;1;5;0;0.69;0.45;2
+68;south african medical journal = suid-afrikaanse tydskrif vir geneeskunde;0;0;0;0;0;0;0;2;0;1;2;5;0;0.82;0.45;2
+69;journal of religion and health;0;1;0;0;0;0;0;0;2;0;2;5;0;0.82;0.45;2
+70;internal medicine journal;1;0;1;0;0;0;1;1;0;0;1;5;0;0.52;0.45;1
+71;sociology of health & illness;0;0;0;0;0;2;0;0;0;1;1;4;0;0.67;0.36;2
+72;pediatric nephrology (berlin, germany);0;0;0;0;0;2;1;0;0;1;0;4;0;0.67;0.36;2
+73;journal of the american college of cardiology;0;0;0;0;0;0;0;0;2;0;2;4;0;0.81;0.36;2
+74;science and engineering ethics;0;0;0;0;0;0;1;0;2;1;0;4;0;0.67;0.36;2
+75;trials;0;0;0;0;1;0;1;0;1;0;1;4;0;0.5;0.36;1
+76;the new zealand medical journal;0;0;0;1;0;1;0;0;2;0;0;4;0;0.67;0.36;2
+77;social science & medicine (1982);1;1;0;1;0;0;0;0;1;0;0;4;0;0.5;0.36;1
+78;the journal of craniofacial surgery;0;0;3;0;0;0;0;0;1;0;0;4;0;0.92;0.36;3
+79;lakartidningen;0;0;1;1;1;0;0;1;0;0;0;4;0;0.5;0.36;1
+80;the new england journal of medicine;0;0;1;3;0;0;0;0;0;0;0;4;0;0.92;0.36;3
+81;nature;0;0;1;1;0;0;0;0;1;1;0;4;0;0.5;0.36;1
+82;kidney international;0;0;1;0;1;0;0;0;0;2;0;4;0;0.67;0.36;2
+83;surgery;0;1;0;0;1;0;1;0;1;0;0;4;0;0.5;0.36;1
+84;bjog : an international journal of obstetrics and gynaecology;0;0;0;0;0;0;2;0;1;1;0;4;0;0.67;0.36;2
+85;swiss medical weekly;1;1;0;0;0;0;0;1;1;0;0;4;0;0.5;0.36;1
+86;nephrologie & therapeutique;1;1;2;0;0;0;0;0;0;0;0;4;0;0.67;0.36;2
+87;chest;1;0;0;0;0;0;1;2;0;0;0;4;0;0.67;0.36;2
+88;critical care (london, england);0;0;0;1;1;1;0;0;1;0;0;4;0;0.5;0.36;1
+89;clinical medicine (london, england);1;0;1;1;1;0;0;0;0;0;0;4;0;0.5;0.36;1
+90;british journal of hospital medicine (london, england : 2005);2;0;0;1;0;0;0;0;1;0;0;4;0;0.67;0.36;2
+91;der nervenarzt;0;0;0;0;0;0;4;0;0;0;0;4;0;1.21;0.36;4
+92;nature reviews. nephrology;1;0;1;0;0;0;0;0;0;0;1;3;0;0.47;0.27;1
+93;medicine, science, and the law;1;1;0;0;0;0;1;0;0;0;0;3;0;0.47;0.27;1
+94;nephrology nursing journal : journal of the american nephrology nurses' association;1;0;0;0;1;1;0;0;0;0;0;3;0;0.47;0.27;1
+95;presse medicale (paris, france : 1983);0;1;0;1;0;0;0;0;1;0;0;3;0;0.47;0.27;1
+96;the journal of surgical research;0;0;1;2;0;0;0;0;0;0;0;3;0;0.65;0.27;2
+97;journal of health politics, policy and law;0;2;0;0;0;1;0;0;0;0;0;3;0;0.65;0.27;2
+98;cornea;0;0;0;0;0;0;0;1;1;0;1;3;0;0.47;0.27;1
+99;kennedy institute of ethics journal;0;0;0;1;0;0;0;1;0;1;0;3;0;0.47;0.27;1
+100;the journal of urology;0;0;0;0;0;1;0;2;0;0;0;3;0;0.65;0.27;2
+101;seminars in dialysis;0;0;2;0;1;0;0;0;0;0;0;3;0;0.65;0.27;2
+102;journal of the intensive care society;0;0;0;0;0;0;0;0;1;2;0;3;0;0.65;0.27;2
+103;lege artis medicinae : uj magyar orvosi hirmondo;0;0;0;0;2;1;0;0;0;0;0;3;0;0.65;0.27;2
+104;"revista de investigacion clinica; organo del hospital de enfermedades de la nutricion";0;3;0;0;0;0;0;0;0;0;0;3;0;0.9;0.27;3
+105;nephrology (carlton, vic.);0;0;1;1;0;0;0;0;1;0;0;3;0;0.47;0.27;1
+106;asaio journal (american society for artificial internal organs : 1992);0;1;0;0;0;0;0;1;1;0;0;3;0;0.47;0.27;1
+107;hec forum : an interdisciplinary journal on hospitals' ethical and legal issues;1;0;0;0;0;0;1;0;0;1;0;3;0;0.47;0.27;1
+108;wiadomosci lekarskie (warsaw, poland : 1960);0;0;0;0;0;0;2;0;0;1;0;3;0;0.65;0.27;2
+109;journal of plastic, reconstructive & aesthetic surgery : jpras;0;0;0;0;1;0;0;1;0;1;0;3;0;0.47;0.27;1
+110;cell and tissue banking;1;1;0;0;0;0;0;0;0;0;1;3;0;0.47;0.27;1
+111;jornal brasileiro de nefrologia : 'orgao oficial de sociedades brasileira e latino-americana de nefrologia;0;0;1;0;0;0;0;1;0;1;0;3;0;0.47;0.27;1
+112;the medical journal of australia;0;1;0;0;0;0;0;0;1;0;1;3;0;0.47;0.27;1
+113;clinical trials (london, england);0;0;0;0;0;0;1;0;0;2;0;3;0;0.65;0.27;2
+114;ajob empirical bioethics;0;0;0;0;0;0;0;1;0;0;2;3;0;0.65;0.27;2
+115;liver international : official journal of the international association for the study of the liver;0;0;0;0;0;0;0;3;0;0;0;3;0;0.9;0.27;3
+116;journal of bioethical inquiry;0;0;0;1;1;0;1;0;0;0;0;3;0;0.47;0.27;1
+117;medicine;0;0;0;0;1;0;0;1;1;0;0;3;0;0.47;0.27;1
+118;health care analysis : hca : journal of health philosophy and policy;1;0;0;0;0;1;0;0;1;0;0;3;0;0.47;0.27;1
+119;current opinion in critical care;0;0;1;1;0;1;0;0;0;0;0;3;0;0.47;0.27;1
+120;american journal of law & medicine;1;0;0;0;0;0;1;0;1;0;0;3;0;0.47;0.27;1
+121;journal of cystic fibrosis : official journal of the european cystic fibrosis society;0;0;0;0;0;0;0;0;0;3;0;3;0;0.9;0.27;3
+122;harefuah;0;0;0;0;3;0;0;0;0;0;0;3;0;0.9;0.27;3
+123;nephrology, dialysis, transplantation : official publication of the european dialysis and transplant association - european renal association;1;0;1;0;1;0;0;0;0;0;0;3;0;0.47;0.27;1
+124;anesthesiology clinics;0;0;0;1;0;0;0;0;0;0;2;3;0;0.65;0.27;2
+125;hepatology (baltimore, md.);1;0;0;0;0;0;0;0;0;1;1;3;0;0.47;0.27;1
+126;world journal for pediatric & congenital heart surgery;0;0;0;1;2;0;0;0;0;0;0;3;0;0.65;0.27;2
+127;current opinion in anaesthesiology;1;0;1;0;1;0;0;0;0;0;0;3;0;0.47;0.27;1
+128;journal of minimally invasive gynecology;0;0;0;0;0;1;0;0;2;0;0;3;0;0.65;0.27;2
+129;giornale italiano di nefrologia : organo ufficiale della societa italiana di nefrologia;0;0;0;1;0;0;0;0;1;1;0;3;0;0.47;0.27;1
+130;the linacre quarterly;0;0;0;0;0;0;0;0;0;2;1;3;0;0.65;0.27;2
+131;canadian journal of anaesthesia = journal canadien d'anesthesie;0;0;0;0;0;0;0;0;1;2;0;3;0;0.65;0.27;2
+132;annals of the royal college of surgeons of england;1;1;0;0;1;0;0;0;0;0;0;3;0;0.47;0.27;1
+133;medecine sciences : m/s;3;0;0;0;0;0;0;0;0;0;0;3;0;0.9;0.27;3
+134;journal of critical care;0;0;0;0;2;0;0;0;1;0;0;3;0;0.65;0.27;2
+135;circulation. heart failure;0;0;0;0;0;0;1;1;0;0;0;2;0;0.4;0.18;1
+136;hepatobiliary & pancreatic diseases international : hbpd int;0;0;1;0;1;0;0;0;0;0;0;2;0;0.4;0.18;1
+137;canadian journal of kidney health and disease;0;0;0;0;1;0;0;0;0;1;0;2;0;0.4;0.18;1
+138;european urology focus;0;0;0;0;0;0;0;0;2;0;0;2;0;0.6;0.18;2
+139;journal of evaluation in clinical practice;0;0;0;0;1;0;0;0;1;0;0;2;0;0.4;0.18;1
+140;alcohol and alcoholism (oxford, oxfordshire);0;0;0;0;0;0;0;0;2;0;0;2;0;0.6;0.18;2
+141;health policy (amsterdam, netherlands);0;0;0;0;0;0;0;0;2;0;0;2;0;0.6;0.18;2
+142;heart, lung & circulation;0;0;0;0;1;1;0;0;0;0;0;2;0;0.4;0.18;1
+143;annales francaises d'anesthesie et de reanimation;0;0;0;0;2;0;0;0;0;0;0;2;0;0.6;0.18;2
+144;journal of cardiothoracic and vascular anesthesia;0;0;0;0;2;0;0;0;0;0;0;2;0;0.6;0.18;2
+145;cmaj : canadian medical association journal = journal de l'association medicale canadienne;0;0;0;0;0;0;0;0;1;1;0;2;0;0.4;0.18;1
+146;annals of emergency medicine;0;0;0;0;1;0;1;0;0;0;0;2;0;0.4;0.18;1
+147;nursing standard (royal college of nursing (great britain) : 1987);0;0;1;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+148;abdominal radiology (new york);0;0;0;0;0;0;0;1;1;0;0;2;0;0.4;0.18;1
+149;journal of clinical medicine;0;0;0;0;0;0;0;0;1;0;1;2;0;0.4;0.18;1
+150;psychosomatics;0;0;1;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+151;international journal of gynaecology and obstetrics: the official organ of the international federation of gynaecology and obstetrics;0;0;0;1;0;0;1;0;0;0;0;2;0;0.4;0.18;1
+152;the yale journal of biology and medicine;0;0;0;1;0;0;0;0;0;0;1;2;0;0.4;0.18;1
+153;journal of the american heart association;0;0;0;0;0;0;0;0;1;1;0;2;0;0.4;0.18;1
+154;journal of forensic and legal medicine;0;0;0;1;0;0;0;0;0;1;0;2;0;0.4;0.18;1
+155;revue de stomatologie, de chirurgie maxillo-faciale et de chirurgie orale;0;0;0;1;0;0;1;0;0;0;0;2;0;0.4;0.18;1
+156;seminars in respiratory and critical care medicine;0;0;0;1;0;0;0;0;1;0;0;2;0;0.4;0.18;1
+157;journal of viral hepatitis;0;0;0;0;0;0;0;0;1;1;0;2;0;0.4;0.18;1
+158;biomed research international;0;0;0;0;1;0;0;1;0;0;0;2;0;0.4;0.18;1
+159;best practice & research. clinical obstetrics & gynaecology;0;0;0;0;2;0;0;0;0;0;0;2;0;0.6;0.18;2
+160;the journal of emergency medicine;0;0;0;0;1;0;0;1;0;0;0;2;0;0.4;0.18;1
+161;british journal of anaesthesia;0;0;1;0;0;0;0;0;1;0;0;2;0;0.4;0.18;1
+162;la revue du praticien;0;0;0;0;1;1;0;0;0;0;0;2;0;0.4;0.18;1
+163;tidsskrift for den norske laegeforening : tidsskrift for praktisk medicin, ny raekke;0;0;1;0;0;0;1;0;0;0;0;2;0;0.4;0.18;1
+164;deutsche medizinische wochenschrift (1946);0;0;0;1;0;0;1;0;0;0;0;2;0;0.4;0.18;1
+165;bulletin de l'academie nationale de medecine;0;0;0;2;0;0;0;0;0;0;0;2;0;0.6;0.18;2
+166;bmc nephrology;0;0;0;0;0;0;0;1;1;0;0;2;0;0.4;0.18;1
+167;jona's healthcare law, ethics and regulation;0;0;2;0;0;0;0;0;0;0;0;2;0;0.6;0.18;2
+168;croatian medical journal;0;0;0;2;0;0;0;0;0;0;0;2;0;0.6;0.18;2
+169;the american surgeon;0;0;1;0;0;0;0;0;1;0;0;2;0;0.4;0.18;1
+170;antimicrobial resistance and infection control;0;0;0;0;0;0;0;0;2;0;0;2;0;0.6;0.18;2
+171;jmir research protocols;0;0;0;0;0;0;0;0;0;1;1;2;0;0.4;0.18;1
+172;medical anthropology quarterly;0;1;1;0;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+173;revista gaucha de enfermagem;0;0;0;0;1;0;0;1;0;0;0;2;0;0.4;0.18;1
+174;journal of paediatrics and child health;0;1;0;0;0;1;0;0;0;0;0;2;0;0.4;0.18;1
+175;neural regeneration research;0;0;0;0;0;0;0;0;0;1;1;2;0;0.4;0.18;1
+176;annali italiani di chirurgia;0;0;0;0;0;2;0;0;0;0;0;2;0;0.6;0.18;2
+177;clinics in liver disease;0;2;0;0;0;0;0;0;0;0;0;2;0;0.6;0.18;2
+178;archives of disease in childhood;0;0;0;0;0;0;0;0;0;1;1;2;0;0.4;0.18;1
+179;zeitschrift fur evidenz, fortbildung und qualitat im gesundheitswesen;1;0;0;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+180;medical law review;1;0;0;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+181;obstetrics and gynecology;0;0;0;0;0;1;1;0;0;0;0;2;0;0.4;0.18;1
+182;journal of palliative medicine;0;0;0;0;0;0;0;0;0;1;1;2;0;0.4;0.18;1
+183;circulation;0;0;0;0;0;1;0;0;0;1;0;2;0;0.4;0.18;1
+184;journal of cranio-maxillo-facial surgery : official publication of the european association for cranio-maxillo-facial surgery;1;0;1;0;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+185;european review for medical and pharmacological sciences;0;0;0;0;0;0;0;1;0;1;0;2;0;0.4;0.18;1
+186;anales de pediatria (barcelona, spain : 2003);0;0;0;0;0;0;0;0;0;1;1;2;0;0.4;0.18;1
+187;clinical transplants;1;1;0;0;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+188;journal of zhejiang university. science. b;0;0;0;0;0;0;1;1;0;0;0;2;0;0.4;0.18;1
+189;journal of reconstructive microsurgery;1;0;0;0;0;0;0;0;1;0;0;2;0;0.4;0.18;1
+190;mayo clinic proceedings;1;0;0;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+191;journal of the american society of nephrology : jasn;0;0;0;0;0;0;0;0;0;0;2;2;0;0.6;0.18;2
+192;methods (san diego, calif.);0;0;0;0;0;0;1;1;0;0;0;2;0;0.4;0.18;1
+193;stem cell reviews and reports;1;0;1;0;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+194;maturitas;1;0;0;0;1;0;0;0;0;0;0;2;0;0.4;0.18;1
+195;journal of obstetrics and gynaecology canada : jogc = journal d'obstetrique et gynecologie du canada : jogc;0;0;0;0;0;0;2;0;0;0;0;2;0;0.6;0.18;2
+196;blood;1;1;0;0;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+197;disability and rehabilitation;1;0;0;0;0;0;0;0;0;0;1;2;0;0.4;0.18;1
+198;journal of thoracic imaging;1;0;0;0;0;0;0;0;1;0;0;2;0;0.4;0.18;1
+199;revue de l'infirmiere;1;0;0;0;0;0;1;0;0;0;0;2;0;0.4;0.18;1
+200;asia-pacific journal of public health;1;0;0;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+201;scandinavian journal of public health;0;1;0;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+202;philosophy, ethics, and humanities in medicine : pehm;0;0;0;0;0;1;0;0;0;1;0;2;0;0.4;0.18;1
+203;life sciences, society and policy;0;0;0;0;0;2;0;0;0;0;0;2;0;0.6;0.18;2
+204;journal of advanced nursing;0;0;1;0;0;0;0;1;0;0;0;2;0;0.4;0.18;1
+205;cirugia y cirujanos;1;0;0;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+206;jama internal medicine;0;0;0;0;0;1;0;0;0;0;1;2;0;0.4;0.18;1
+207;minerva anestesiologica;0;0;1;0;0;0;1;0;0;0;0;2;0;0.4;0.18;1
+208;injury;0;0;0;0;0;1;0;1;0;0;0;2;0;0.4;0.18;1
+209;annals of plastic surgery;0;1;0;1;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+210;international journal of surgery (london, england);0;0;0;0;0;0;1;1;0;0;0;2;0;0.4;0.18;1
+211;stem cell research & therapy;0;0;0;0;0;0;1;0;1;0;0;2;0;0.4;0.18;1
+212;reproductive biomedicine online;1;1;0;0;0;0;0;0;0;0;0;2;0;0.4;0.18;1
+213;pediatric cardiology;0;1;0;0;0;0;0;0;0;1;0;2;0;0.4;0.18;1
+214;rambam maimonides medical journal;0;2;0;0;0;0;0;0;0;0;0;2;0;0.6;0.18;2
+215;clinics in chest medicine;0;2;0;0;0;0;0;0;0;0;0;2;0;0.6;0.18;2
+216;bulletin of the world health organization;0;0;1;0;0;0;0;1;0;0;0;2;0;0.4;0.18;1
+217;the american journal of nursing;0;1;0;0;0;0;0;0;0;1;0;2;0;0.4;0.18;1
+218;american journal of nephrology;0;0;2;0;0;0;0;0;0;0;0;2;0;0.6;0.18;2
+219;annals of surgery;0;0;0;0;0;0;0;1;0;0;1;2;0;0.4;0.18;1
+220;anaesthesia;0;0;0;0;0;1;0;0;0;0;1;2;0;0.4;0.18;1
+221;kidney international supplements;0;0;0;0;0;0;0;0;0;0;2;2;0;0.6;0.18;2
+222;pediatric critical care medicine : a journal of the society of critical care medicine and the world federation of pediatric intensive and critical care societies;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+223;facial plastic surgery clinics of north america;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+224;magnetic resonance imaging;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+225;health communication;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+226;professional case management;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+227;the journal of hand surgery;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+228;nature reviews. urology;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+229;georgian medical news;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+230;journal of hepato-biliary-pancreatic sciences;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+231;irb;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+232;the american journal of case reports;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+233;the nursing journal of india;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+234;human genetics;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+235;hu li za zhi the journal of nursing;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+236;pakistan journal of medical sciences;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+237;journal of patient experience;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+238;acta historica leopoldina;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+239;seminars in nephrology;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+240;international anesthesiology clinics;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+241;stem cells translational medicine;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+242;ciencia & saude coletiva;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+243;qatar medical journal;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+244;emerging infectious diseases;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+245;stem cell research;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+246;the israel medical association journal : imaj;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+247;the lancet. global health;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+248;current heart failure reports;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+249;age and ageing;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+250;acta bioethica;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+251;clinical nutrition espen;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+252;child's nervous system : chns : official journal of the international society for pediatric neurosurgery;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+253;journal of materials science. materials in medicine;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+254;journal of korean academy of nursing;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+255;the medical journal of malaysia;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+256;clinical and experimental obstetrics & gynecology;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+257;medical history;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+258;avicenna journal of medicine;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+259;journal of intensive care medicine;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+260;future cardiology;0;0;0;0;0;0;0;1;0;0;0;1;0;0.3;0.09;1
+261;khirurgiia;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+262;indian heart journal;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+263;cirugia pediatrica : organo oficial de la sociedad espanola de cirugia pediatrica;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+264;respiratory care;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+265;cadernos de saude publica;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+266;texas heart institute journal;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+267;gynecologie, obstetrique, fertilite & senologie;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+268;international journal of colorectal disease;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+269;bmc rheumatology;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+270;the patient;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+271;world journal of emergency surgery : wjes;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+272;ear, nose, & throat journal;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+273;health expectations : an international journal of public participation in health  care and health policy;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+274;journal of tissue engineering and regenerative medicine;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+275;immunity & ageing : i & a;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+276;a&a practice;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+277;israel journal of health policy research;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+278;revue medicale de liege;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+279;journal of neonatal-perinatal medicine;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+280;ulusal travma ve acil cerrahi dergisi = turkish journal of trauma & emergency surgery : tjtes;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+281;ethics & human research;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+282;policy, politics & nursing practice;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+283;european journal of haematology;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+284;jama network open;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+285;irish journal of medical science;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+286;saudi journal of gastroenterology : official journal of the saudi gastroenterology association;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+287;southern medical journal;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+288;journal of b.u.on. : official journal of the balkan union of oncology;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+289;american journal of obstetrics and gynecology;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+290;journal of empirical research on human research ethics : jerhre;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+291;the journal of thoracic and cardiovascular surgery;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+292;journal of korean medical science;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+293;animals : an open access journal from mdpi;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+294;stem cell reports;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+295;indian journal of plastic surgery : official publication of the association of plastic surgeons of india;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+296;ui sahak;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+297;acta gastro-enterologica belgica;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+298;journal of clinical nursing;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+299;canadian bulletin of medical history = bulletin canadien d'histoire de la medecine;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+300;anales de pediatria;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+301;archives of disease in childhood. education and practice edition;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+302;international journal of environmental research and public health;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+303;brazilian journal of cardiovascular surgery;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+304;annals of anatomy = anatomischer anzeiger : official organ of the anatomische gesellschaft;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+305;journal of anesthesia history;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+306;international urology and nephrology;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
+307;the lancet. oncology;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+308;research integrity and peer review;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+309;revue des maladies respiratoires;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+310;embo reports;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+311;journal of biological engineering;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+312;psychotherapie, psychosomatik, medizinische psychologie;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+313;aids care;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+314;the international journal of cardiovascular imaging;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+315;european urology;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+316;cardiovascular drugs and therapy;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+317;anaesthesiology intensive therapy;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+318;journal of clinical epidemiology;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+319;toxicology reports;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+320;research involvement and engagement;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+321;surgical innovation;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+322;international braz j urol : official journal of the brazilian society of urology;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+323;the pan african medical journal;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+324;revista latino-americana de enfermagem;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+325;journal of law and the biosciences;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+326;revue scientifique et technique (international office of epizootics);0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+327;expert opinion on drug discovery;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+328;epidemiologia e prevenzione;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+329;archivos de bronconeumologia;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+330;klinische padiatrie;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+331;clinics and research in hepatology and gastroenterology;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+332;emerging topics in life sciences;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+333;zhonghua yi xue za zhi;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+334;bmj case reports;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+335;the journal of bone and joint surgery. american volume;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+336;journal of cardiothoracic surgery;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+337;plastic and reconstructive surgery. global open;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+338;turkish journal of medical sciences;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+339;translational pediatrics;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+340;open access macedonian journal of medical sciences;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+341;laboratory animals;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+342;journal of pharmaceutical health care and sciences;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+343;clinical rheumatology;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+344;digestive diseases and sciences;0;0;0;0;0;0;0;0;0;1;0;1;0;0.3;0.09;1
+345;jama surgery;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+346;expert review of respiratory medicine;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+347;cellular and molecular biology (noisy-le-grand, france);0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+348;seminars in cardiothoracic and vascular anesthesia;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+349;aorn journal;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+350;journal of robotic surgery;0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+351;journal of public health (oxford, england);0;0;0;0;0;0;0;0;1;0;0;1;0;0.3;0.09;1
+352;the ochsner journal;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+353;medical humanities;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+354;the journal of the association of physicians of india;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+355;jornal de pediatria;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+356;medicine and law;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+357;health (london, england : 1997);0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+358;ageing research reviews;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+359;brain : a journal of neurology;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+360;medicine studies;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+361;journal of medical ethics and history of medicine;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+362;the american journal of hospice & palliative care;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+363;pediatrics in review;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+364;clinics in laboratory medicine;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+365;seminars in immunopathology;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+366;digestive and liver disease : official journal of the italian society of gastroenterology and the italian association for the study of the liver;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+367;european journal of obstetrics, gynecology, and reproductive biology;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+368;acta paediatrica (oslo, norway : 1992);0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+369;frontiers of medicine;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+370;minnesota medicine;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+371;clinical pharmacology and therapeutics;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+372;cardiology research and practice;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+373;progress in cardiovascular diseases;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+374;biopreservation and biobanking;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+375;current neurology and neuroscience reports;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+376;pharmacoepidemiology and drug safety;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+377;bulletin de la societe de pathologie exotique (1990);0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+378;embo molecular medicine;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+379;iranian journal of kidney diseases;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+380;radiologic technology;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+381;current opinion in nephrology and hypertension;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+382;the mount sinai journal of medicine, new york;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+383;nigerian journal of surgery : official publication of the nigerian surgical research society;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+384;therapeutische umschau. revue therapeutique;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+385;haemophilia : the official journal of the world federation of hemophilia;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+386;albany law review;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+387;journal of perinatology : official journal of the california perinatal association;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+388;indian journal of pathology & microbiology;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+389;nature medicine;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+390;accountability in research;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+391;cuadernos de bioetica : revista oficial de la asociacion espanola de bioetica y etica medica;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+392;bju international;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+393;world neurosurgery;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+394;archives of iranian medicine;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+395;orvosi hetilap;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+396;science progress;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+397;"der chirurg; zeitschrift fur alle gebiete der operativen medizen";1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+398;anesteziologiia i reanimatologiia;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+399;scientific american;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+400;journal of the american geriatrics society;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+401;journal of the south carolina medical association (1975);1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+402;in vivo (athens, greece);1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+403;journal of law and medicine;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+404;asian journal of surgery;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+405;kidney international. supplement;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+406;bratislavske lekarske listy;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+407;journal of translational medicine;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+408;l' orthodontie francaise;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+409;nihon rinsho. japanese journal of clinical medicine;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+410;minerva medica;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+411;revista da associacao medica brasileira (1992);1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+412;revue de pneumologie clinique;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+413;annali di igiene : medicina preventiva e di comunita;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+414;cannt journal = journal acitn;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+415;the journal of the american academy of orthopaedic surgeons;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+416;neurocritical care;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+417;hand clinics;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+418;nephrology news & issues;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+419;plastic surgical nursing : official journal of the american society of plastic and reconstructive surgical nurses;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+420;international journal of psychiatry in medicine;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+421;rofo : fortschritte auf dem gebiete der rontgenstrahlen und der nuklearmedizin;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+422;stem cells and development;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+423;nuclear medicine and biology;0;1;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+424;european radiology;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+425;dimensions of critical care nursing : dccn;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+426;european journal of epidemiology;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+427;the journal of pediatrics;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+428;eastern mediterranean health journal = la revue de sante de la mediterranee orientale = al-majallah al-sihhiyah li-sharq al-mutawassit;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+429;open medicine : a peer-reviewed, independent, open-access journal;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+430;international journal of organ transplantation medicine;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+431;archives of facial plastic surgery;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+432;gastroenterology nursing : the official journal of the society of gastroenterology nurses and associates;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+433;journal of nephrology;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+434;arab journal of nephrology and transplantation;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+435;the british journal of dermatology;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+436;health affairs (project hope);0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+437;a & a case reports;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+438;giornale italiano di cardiologia (2006);0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+439;archives of disease in childhood. fetal and neonatal edition;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+440;world journal of transplantation;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+441;proceedings of the national academy of sciences of the united states of america;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+442;the lancet. respiratory medicine;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+443;journal of gastrointestinal surgery : official journal of the society for surgery of the alimentary tract;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+444;the european respiratory journal;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+445;journal of the american academy of dermatology;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+446;frontiers in pediatrics;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+447;the national medical journal of india;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+448;journal of cardiac surgery;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+449;qjm : monthly journal of the association of physicians;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+450;hormone and metabolic research = hormon- und stoffwechselforschung = hormones et  metabolisme;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+451;the european journal of health economics : hepac : health economics in prevention and care;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+452;journal of hypertension;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+453;experimental biology and medicine (maywood, n.j.);0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+454;current infectious disease reports;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+455;medicina intensiva;0;0;0;0;0;1;0;0;0;0;0;1;0;0.3;0.09;1
+456;the british journal of surgery;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+457;resuscitation;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+458;british dental journal;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+459;the canadian journal of cardiology;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+460;academic medicine : journal of the association of american medical colleges;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+461;deutsches arzteblatt international;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+462;internet interventions;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+463;progres en urologie : journal de l'association francaise d'urologie et de la societe francaise d'urologie;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+464;hla;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+465;the turkish journal of gastroenterology : the official journal of turkish society of gastroenterology;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+466;neurologia medico-chirurgica;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+467;bulletin du cancer;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+468;british medical bulletin;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+469;indian journal of nephrology;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+470;oral diseases;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+471;biology of blood and marrow transplantation : journal of the american society for blood and marrow transplantation;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+472;journal of autoimmunity;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+473;congenital heart disease;0;0;0;0;0;0;1;0;0;0;0;1;0;0.3;0.09;1
+474;cold spring harbor perspectives in medicine;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+475;academic emergency medicine : official journal of the society for academic emergency medicine;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+476;danish medical journal;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+477;transplant infectious disease : an official journal of the transplantation society;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+478;nederlands tijdschrift voor geneeskunde;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+479;current problems in surgery;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+480;the medico-legal journal;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+481;journal of obstetrics and gynaecology : the journal of the institute of obstetrics and gynaecology;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+482;journal of christian nursing : a quarterly publication of nurses christian fellowship;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+483;digestive diseases (basel, switzerland);0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+484;american journal of respiratory and critical care medicine;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+485;journal of prevention & intervention in the community;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+486;the milbank quarterly;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+487;praxis;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+488;nursing research;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+489;the surgical clinics of north america;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+490;annals of hepatology;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+491;hepatobiliary surgery and nutrition;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+492;human reproduction (oxford, england);0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+493;duke law journal;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+494;the journal of clinical investigation;0;0;1;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+495;nursing;0;0;0;1;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+496;nursing forum;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+497;microsurgery;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+498;journal international de bioethique = international journal of bioethics;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+499;best practice & research. clinical gastroenterology;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+500;herz;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+501;continuum (minneapolis, minn.);0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+502;nature reviews. cardiology;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+503;journal of gerontological nursing;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+504;nursing times;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+505;women's health (london, england);0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+506;cell stem cell;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+507;journal of magnetic resonance imaging : jmri;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+508;bulletin of the history of medicine;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+509;cell journal;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+510;annales de dermatologie et de venereologie;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+511;veterinary journal (london, england : 1997);0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+512;bulletin of the american college of surgeons;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+513;paediatrics & child health;0;0;0;0;1;0;0;0;0;0;0;1;0;0.3;0.09;1
+514;medicinski pregled;1;0;0;0;0;0;0;0;0;0;0;1;0;0.3;0.09;1
+515;the lancet. gastroenterology & hepatology;0;0;0;0;0;0;0;0;0;0;1;1;0;0.3;0.09;1
