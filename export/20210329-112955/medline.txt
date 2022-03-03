@@ -1,0 +1,2576 @@
+
+PMID- 2907743
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19890620
+LR  - 20131121
+IS  - 0046-5968 (Print)
+IS  - 0046-5968 (Linking)
+VI  - 18
+IP  - 10
+DP  - 1988 Oct
+TI  - [Chronic treatment of dilated cardiomyopathy by beta blocking agents. Clinical
+      and hemodynamic follow-up].
+PG  - 835-42
+AB  - symptomatic dilated cardiomyopathy were studied in order to evaluate the effect
+      of long term sympathetic beta-blockade with metoprolol. Clinical evaluation,
+      stress test, two-dimensional echocardiography, 24 hour ambulatory
+      electrocardiography and hemodynamic assessment with Swan-Ganz catheter were
+      performed before enrollment in the study. Patients were randomly assigned to the 
+      relative placebo (8 pts) or metoprolol group (12 pts) in a single-blind fashion. 
+      The placebo group received standard therapy (digitalis, diuretics, vasodilators
+      and anticoagulants as needed), while the metoprolol group, along with standard
+      therapy received low-dose beta-blockade, starting with 6.25 mg twice daily and
+      then doubling every 4 days on the two daily administrations. The therapeutic
+      end-point was 100 mg. Patients received less than 100 mg if their systolic blood 
+      pressure was less than 100 mmHg or if their resting heart rate was less than 55
+      beats/min. Patients were clinically assessed every month and a 24-hour
+      electrocardiography, echocardiography and hemodynamic control was repeated after 
+      six months. In the metoprolol group there was one sudden death and two
+      drop-outs.(ABSTRACT TRUNCATED AT 250 WORDS)
+FAU - Cucchini, F
+AU  - Cucchini F
+AD  - Servizio di Cardiologia, Ospedale Civile, Bassano del Grappa, Vicenza.
+FAU - Compostella, L
+AU  - Compostella L
+FAU - Papalia, D
+AU  - Papalia D
+FAU - de Domenico, R
+AU  - de Domenico R
+FAU - Iavernaro, A
+AU  - Iavernaro A
+FAU - Zeppellini, R
+AU  - Zeppellini R
+LA  - ita
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - English Abstract
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+TT  - Trattamento cronico della cardiomiopatia dilatativa con betabloccanti. Controllo 
+      clinico ed emodinamico a distanza.
+PL  - Italy
+TA  - G Ital Cardiol
+JT  - Giornale italiano di cardiologia
+JID - 1270331
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - GEB06NHM23 (Metoprolol)
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Cardiac Catheterization
+MH  - Cardiomyopathy, Dilated/*drug therapy/physiopathology
+MH  - Clinical Trials as Topic
+MH  - Echocardiography
+MH  - Electrocardiography
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hemodynamics
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/therapeutic use
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Random Allocation
+MH  - Time Factors
+EDAT- 1988/10/01 00:00
+MHDA- 1988/10/01 00:01
+CRDT- 1988/10/01 00:00
+PHST- 1988/10/01 00:00 [pubmed]
+PHST- 1988/10/01 00:01 [medline]
+PHST- 1988/10/01 00:00 [entrez]
+PST - ppublish
+SO  - G Ital Cardiol. 1988 Oct;18(10):835-42.
+
+
+PMID- 8921456
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19970116
+LR  - 20190512
+IS  - 0300-5771 (Print)
+IS  - 0300-5771 (Linking)
+VI  - 25
+IP  - 4
+DP  - 1996 Aug
+TI  - Validity and reproducibility of alcohol consumption in Italy.
+PG  - 775-82
+AB  - BACKGROUND: The reproducibility and validity of alcohol consumption has not been 
+      adequately studied, particularly in mediterranean countries, where alcohol
+      drinking is a widespread habit, especially during meals. METHODS: We compared
+      alcohol consumption measured by two interviewer-administered food frequency
+      questionnaires (FFQ) with average intake derived from two 7-day dietary (7-DD)
+      records (the reference method) on 395 volunteers. Different types of alcoholic
+      beverages were considered separately in order to verify the ability of the
+      questionnaire to assess detailed patterns of alcohol intake. RESULTS: A
+      satisfactory level of reproducibility and validity of the pattern of alcohol
+      consumption across different levels and types of alcoholic beverage intake was
+      observed. The reproducibility of wine and total alcohol intake showed correlation
+      coefficients > 0.75 in both sexes. The validity was somewhat higher for wine
+      (around 0.70) than for other alcoholic beverages and total alcohol intake. This
+      is probably accounted for by the more regular pattern of wine consumption during 
+      the year as compared to other alcoholic beverages (beer, grappa, etc) which are
+      more strongly influenced by seasonal and daily variations. However, about 30% of 
+      abstainers according to FFQ were drinkers by the reference method. The opposite
+      was observed in only 4% of subjects. CONCLUSION: The FFQ is a reliable and valid 
+      instrument for collecting alcohol intake in regular drinkers. Lower validity in
+      irregular drinkers may be due to seasonal variation and/or inadequacy of the FFQ 
+      to capture irregular patterns of consumption and/or inadequacy of the average of 
+      two 7-DD as a reference method. Furthermore, a considerable degree of
+      misclassification was observed between non-drinkers and moderate drinkers.
+FAU - Ferraroni, M
+AU  - Ferraroni M
+AD  - Istituto di Statistica Medica e Biometria, Universita degli Studi, Milano, Italy.
+FAU - Decarli, A
+AU  - Decarli A
+FAU - Franceschi, S
+AU  - Franceschi S
+FAU - La Vecchia, C
+AU  - La Vecchia C
+FAU - Enard, L
+AU  - Enard L
+FAU - Negri, E
+AU  - Negri E
+FAU - Parpinel, M
+AU  - Parpinel M
+FAU - Salvini, S
+AU  - Salvini S
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Int J Epidemiol
+JT  - International journal of epidemiology
+JID - 7802871
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Alcohol Drinking/*epidemiology
+MH  - Beer
+MH  - *Diet Records
+MH  - *Diet Surveys
+MH  - Female
+MH  - Humans
+MH  - Italy/epidemiology
+MH  - Male
+MH  - Middle Aged
+MH  - *Psychometrics
+MH  - Reproducibility of Results
+MH  - Sex Factors
+MH  - Wine
+EDAT- 1996/08/01 00:00
+MHDA- 1996/08/01 00:01
+CRDT- 1996/08/01 00:00
+PHST- 1996/08/01 00:00 [pubmed]
+PHST- 1996/08/01 00:01 [medline]
+PHST- 1996/08/01 00:00 [entrez]
+AID - 10.1093/ije/25.4.775 [doi]
+PST - ppublish
+SO  - Int J Epidemiol. 1996 Aug;25(4):775-82. doi: 10.1093/ije/25.4.775.
+
+
+PMID- 9849424
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19981216
+LR  - 20190718
+IS  - 0959-8049 (Print)
+IS  - 0959-8049 (Linking)
+VI  - 34
+IP  - 9
+DP  - 1998 Aug
+TI  - Alcohol consumption and risk of breast cancer: a multicentre Italian case-control
+      study.
+PG  - 1403-9
+AB  - The relationship between alcohol consumption and breast cancer risk was
+      investigated using data from a co-operative case-control study conducted in Italy
+      between 1991 and 1994 on 2569 incident, histologically confirmed breast cancer
+      cases and 2588 controls in hospital for acute, non-neoplastic, non-hormone
+      related conditions. Overall, 915 (38%) cases and 1048 (43%) controls were
+      abstainers. Compared with them, the odds ratio (OR), adjusted only for age, was
+      1.31 (95% confidence interval (CI) 1.13-1.53) for drinkers and became 1.39 (95%
+      CI 1.(1)21-1.60) after correction for measurement error. The multivariate OR was 
+      1.21 for drinkers of < or = 5.87 g/day and 1.23, 1.19, 1.21, 1.41 for drinkers of
+      5.88-13.40, 13.41-24.55, 24.56-27.60, > 27.60 g/day, respectively. The trend in
+      risk was significant (chi 2 = 12.28, P < 0.0005). The association was apparently 
+      stronger in premenopausal women (OR = 1.80 for > 27.60 g/day). Considering the
+      different types of alcoholic beverages (wine, beer, digestives, grappa and other 
+      spirits), a significant direct trend in breast cancer risk was seen for wine with
+      an OR of 1.27 (95% CI 1.06-1.53) for the category > 26.34 g/day. The ORs were
+      also above unity for beer, grappa, digestives and spirits drinkers. No
+      appreciable interaction was observed between alcohol drinking and body mass
+      index, smoking, or any other covariate considered. Thus, the present data, based 
+      on a validated alcohol consumption questionnaire and on a population
+      characterised by a relatively high alcohol consumption in women, confirmed that
+      alcohol drinking is moderately related to breast cancer risk. If causal, this
+      association could explain 12% (95% CI, 5-19%) of breast cancers in Italy, thus
+      representing one of the major avoidable risk factor for breast cancer.
+FAU - Ferraroni, M
+AU  - Ferraroni M
+AD  - Istituto di Statistica Medica e Biometria, Universita degli Studi di Milano,
+      Milan, Italy.
+FAU - Decarli, A
+AU  - Decarli A
+FAU - Franceschi, S
+AU  - Franceschi S
+FAU - La Vecchia, C
+AU  - La Vecchia C
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Eur J Cancer
+JT  - European journal of cancer (Oxford, England : 1990)
+JID - 9005373
+SB  - IM
+CIN - Eur J Cancer. 1998 Aug;34(9):1307-8. PMID: 9849410
+MH  - Adult
+MH  - Age Distribution
+MH  - Aged
+MH  - Alcohol Drinking/*adverse effects
+MH  - Breast Neoplasms/epidemiology/*etiology
+MH  - Case-Control Studies
+MH  - Female
+MH  - Humans
+MH  - Italy/epidemiology
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Odds Ratio
+MH  - Postmenopause
+MH  - Premenopause
+MH  - Risk Factors
+EDAT- 1998/12/16 00:00
+MHDA- 1998/12/16 00:01
+CRDT- 1998/12/16 00:00
+PHST- 1998/12/16 00:00 [pubmed]
+PHST- 1998/12/16 00:01 [medline]
+PHST- 1998/12/16 00:00 [entrez]
+AID - S0959-8049(98)00163-4 [pii]
+AID - 10.1016/s0959-8049(98)00163-4 [doi]
+PST - ppublish
+SO  - Eur J Cancer. 1998 Aug;34(9):1403-9. doi: 10.1016/s0959-8049(98)00163-4.
+
+
+PMID- 12530773
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030304
+LR  - 20190906
+IS  - 0393-2990 (Print)
+IS  - 0393-2990 (Linking)
+VI  - 17
+IP  - 12
+DP  - 2001
+TI  - Alcohol, smoking, coffee and risk of non-fatal acute myocardial infarction in
+      Italy.
+PG  - 1131-7
+AB  - OBJECTIVES: To assess the relation between cigarette smoking, alcohol, coffee,
+      decaffeinated coffee and tea consumption, and the risk of non-fatal acute
+      myocardial infarction (AMI). DESIGN AND SETTING: Hospital-based case-control
+      study conducted in 1995-1999 in Milan, Italy. PATIENTS: 507 cases with a first
+      episode of non-fatal AMI, and 478 controls admitted to hospital for acute
+      diseases. METHODS: Information was collected by interviewer-administered
+      questionnaires. Odds ratios (OR) and 95% confidence intervals (CI) were
+      calculated by multiple logistic regression. RESULTS: Compared to alcohol
+      non-drinkers the OR was 0.6 (95% CI: 0.4-0.9) in drinkers, and 0.5 in drinkers of
+      > 3 drinks/day. The OR for > 1 drink/day of wine was 0.5, and those for beer,
+      amari, grappa and spirits ranged between 0.4 and 0.6. Compared to never smokers, 
+      the OR was 2.2 (95% CI: 1.5-3.1) among current smokers, and 4.6 among current
+      smokers of > or = 25 cigarettes/day. The risk was similar to that of never
+      smokers > or = 5 years after cessation (OR: 1.1 after 5-9 years, 0.7 after > or =
+      10 years). The OR was 2.3 for low tar cigarettes and 2.0 for high tar ones. The
+      OR for coffee intake (expresso and mocha) was around unity up to 3 cups/ day, but
+      rose to 1.9 (95% CI: 1.1-3.3) for > or = 6 cups/ day. Moderate decaffeinated
+      coffee and tea intake was not associated with AMI risk. Compared to non-smokers
+      drinking < or = 3 cups of coffee/day, the OR was 1.6 among non-smokers drinking >
+      3 cups of coffee/ day and 3.3 (95% CI: 2.1-5.0) among current smokers drinking < 
+      or = 3 cups of coffee/day. Compared to alcohol drinkers with a coffee intake of <
+      or = 3 cups/ day, alcohol non-drinkers with higher coffee intake had an OR of
+      2.2, and compared to non-smokers alcohol drinkers, the OR was 3.3 in current
+      smokers alcohol non-drinkers. CONCLUSIONS: In this Italian population alcohol
+      intake was inversely associated to AMI risk, while smoking and heavy (but not
+      moderate) coffee drinking increased the risk.
+FAU - Tavani, A
+AU  - Tavani A
+AD  - Istituto di Ricerche, Farmacologiche Mario Negri, Milan, Italy.
+      tavani@marionegri.it
+FAU - Bertuzzi, M
+AU  - Bertuzzi M
+FAU - Negri, E
+AU  - Negri E
+FAU - Sorbara, L
+AU  - Sorbara L
+FAU - La Vecchia, C
+AU  - La Vecchia C
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Eur J Epidemiol
+JT  - European journal of epidemiology
+JID - 8508062
+RN  - 0 (Coffee)
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Alcohol Drinking/*adverse effects/epidemiology
+MH  - Caffeine
+MH  - Case-Control Studies
+MH  - Chi-Square Distribution
+MH  - Coffee/*adverse effects
+MH  - Female
+MH  - Humans
+MH  - Italy/epidemiology
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/epidemiology/*etiology
+MH  - Risk Factors
+MH  - Smoking/*adverse effects/epidemiology
+EDAT- 2003/01/18 04:00
+MHDA- 2003/03/05 04:00
+CRDT- 2003/01/18 04:00
+PHST- 2003/01/18 04:00 [pubmed]
+PHST- 2003/03/05 04:00 [medline]
+PHST- 2003/01/18 04:00 [entrez]
+AID - 10.1023/a:1021276932160 [doi]
+PST - ppublish
+SO  - Eur J Epidemiol. 2001;17(12):1131-7. doi: 10.1023/a:1021276932160.
+
+
+PMID- 11588899
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020509
+LR  - 20131121
+IS  - 0163-5581 (Print)
+IS  - 0163-5581 (Linking)
+VI  - 39
+IP  - 1
+DP  - 2001
+TI  - Coffee and alcohol intake and risk of ovarian cancer: an Italian case-control
+      study.
+PG  - 29-34
+AB  - The relation between coffee and alcohol intake and ovarian cancer risk was
+      analyzed in a case-control study conducted in Italy between 1992 and 1999. Cases 
+      were 1,031 women, aged 18-79 years, with incident, histologically confirmed
+      invasive epithelial ovarian cancer, and controls were 2,411 women, aged 17-79
+      years, admitted to the hospital for acute nonneoplastic non-hormone-related
+      diseases. Coffee intake (mostly espresso and mocha) was not associated with
+      ovarian cancer risk, with an odds ratio (OR) of 0.93 [95% confidence interval
+      (CI) = 0.69-1.27] in drinkers of > or = 4 cups/day compared with drinkers of < 1 
+      cup/day. No meaningful relation was observed with cappuccino (OR = 1.06, 95% CI =
+      0.85-1.32 for drinkers compared with nondrinkers), decaffeinated coffee (OR =
+      0.64, 95% CI 0.42-0.96), and tea intake (OR = 0.90, 95% CI = 0.75-1.08). Total
+      alcohol intake was not associated with ovarian cancer risk (OR = 1.09, 95% CI =
+      0.76-1.57 in drinkers of > or = 36 g/day compared with never drinkers). No
+      relationship was found with wine (OR = 1.03, 95% CI = 0.70-1.50 for > 39 g/day
+      compared with never drinkers), beer, amari, grappa, and spirits. No significant
+      heterogeneity was found for coffee or total alcohol intake across strata of age, 
+      education, parity, oral contraceptive use, family history of ovarian/breast
+      cancer, body mass index, and calorie intake. This study, based on a large data
+      set; provides no support for a causal association between invasive epithelial
+      ovarian cancer risk and coffee and alcohol intake.
+FAU - Tavani, A
+AU  - Tavani A
+AD  - Istituto di Ricerche Farmacologiche Mario Negri, 20157 Milan, Italy.
+      tavani@marionegri.it
+FAU - Gallus, S
+AU  - Gallus S
+FAU - Dal Maso, L
+AU  - Dal Maso L
+FAU - Franceschi, S
+AU  - Franceschi S
+FAU - Montella, M
+AU  - Montella M
+FAU - Conti, E
+AU  - Conti E
+FAU - La Vecchia, C
+AU  - La Vecchia C
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Nutr Cancer
+JT  - Nutrition and cancer
+JID - 7905040
+RN  - 0 (Carcinogens)
+RN  - 0 (Coffee)
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Alcohol Drinking/*adverse effects
+MH  - Caffeine
+MH  - Carcinogens/*adverse effects
+MH  - Case-Control Studies
+MH  - Coffee/*adverse effects
+MH  - Female
+MH  - Humans
+MH  - Incidence
+MH  - Italy/epidemiology
+MH  - Middle Aged
+MH  - Odds Ratio
+MH  - Ovarian Neoplasms/chemically induced/epidemiology/*etiology
+MH  - Risk
+MH  - Risk Factors
+EDAT- 2001/10/09 10:00
+MHDA- 2002/05/10 10:01
+CRDT- 2001/10/09 10:00
+PHST- 2001/10/09 10:00 [pubmed]
+PHST- 2002/05/10 10:01 [medline]
+PHST- 2001/10/09 10:00 [entrez]
+AID - 10.1207/S15327914nc391_4 [doi]
+PST - ppublish
+SO  - Nutr Cancer. 2001;39(1):29-34. doi: 10.1207/S15327914nc391_4.
+
+
+PMID- 17945677
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080317
+LR  - 20200609
+IS  - 1557-170X (Print)
+IS  - 1557-170X (Linking)
+VI  - 2006
+DP  - 2006
+TI  - Fast magnetic resonance spectroscopic imaging at 3 Tesla using autocalibrating
+      parallel technique.
+PG  - 1866-9
+AB  - Magnetic resonance spectroscopic imaging (MRSI) is a powerful tool for diagnosis 
+      of many pathologic conditions. However conventional MRSI involves long scan
+      times, in the order of 20 minutes. This work simulated an autocalibrating
+      parallel technique based on GRAPPA algorithm for accelerating MRSI and applied it
+      to 3 dimensional (3D) MRSI of the brain at 3 Tesla. Employing two fold
+      undersampling in two phase-encoding directions, a four fold reduction in scantime
+      was simulated. Metabolic parameters showed close agreement between the full and
+      GRAPPA reconstructed spectral data.
+FAU - Banerjee, Suchandrima
+AU  - Banerjee S
+AD  - Joint Graduate Group in Bioeng., California Univ., Berkeley, San Francisco, CA,
+      USA.
+FAU - Ozturk-Isik, Esin
+AU  - Ozturk-Isik E
+FAU - Nelson, Sarah J
+AU  - Nelson SJ
+FAU - Majumdar, Sharmila
+AU  - Majumdar S
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Conf Proc IEEE Eng Med Biol Soc
+JT  - Conference proceedings : ... Annual International Conference of the IEEE
+      Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and
+      Biology Society. Annual Conference
+JID - 101243413
+RN  - 30KYC7MIAI (Aspartic Acid)
+RN  - 997-55-7 (N-acetylaspartate)
+RN  - N91BDP6H0X (Choline)
+SB  - IM
+MH  - Algorithms
+MH  - Aspartic Acid/*analogs & derivatives/analysis
+MH  - Brain/*anatomy & histology/*metabolism
+MH  - Calibration
+MH  - Choline/*analysis
+MH  - Humans
+MH  - Image Interpretation, Computer-Assisted/*methods/standards
+MH  - Magnetic Resonance Imaging/*methods/standards
+MH  - Magnetic Resonance Spectroscopy/*methods/standards
+MH  - Tissue Distribution
+EDAT- 2007/10/20 09:00
+MHDA- 2008/03/18 09:00
+CRDT- 2007/10/20 09:00
+PHST- 2007/10/20 09:00 [pubmed]
+PHST- 2008/03/18 09:00 [medline]
+PHST- 2007/10/20 09:00 [entrez]
+AID - 10.1109/IEMBS.2006.260659 [doi]
+PST - ppublish
+SO  - Conf Proc IEEE Eng Med Biol Soc. 2006;2006:1866-9. doi:
+      10.1109/IEMBS.2006.260659.
+
+
+PMID- 17945589
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080306
+LR  - 20200609
+IS  - 1557-170X (Print)
+IS  - 1557-170X (Linking)
+VI  - 2006
+DP  - 2006
+TI  - Partially parallel MR spectroscopic imaging of gliomas at 3T.
+PG  - 493-6
+AB  - Magnetic resonance spectroscopic imaging (MRSI) has been used to more accurately 
+      diagnose, localize, and assess progression and treatment response for gliomas.
+      The main limitation of the MRSI is the long data acquisition times. A current
+      approach is to reduce the amount of k-space data sampled by limiting the data
+      acquisition to a central elliptical portion of k-space. This study investigated
+      the feasibility of reducing the data acquisition time further for the MRSI data
+      using two parallel imaging techniques and investigating the relative performance 
+      of sensitivity encoding (SENSE) and generalized autocalibrating partially
+      parallel acquisitions (GRAPPA).
+FAU - Ozturk, Esin
+AU  - Ozturk E
+AD  - UCSF/UCB Joint Graduate Group in Bioengineering, University of California, San
+      Francisco, CA, USA. esin.ozturk@mrsc.ucsf.edu
+FAU - Banerjee, Suchandrima
+AU  - Banerjee S
+FAU - Majumdar, Sharmila
+AU  - Majumdar S
+FAU - Nelson, Sarah J
+AU  - Nelson SJ
+LA  - eng
+GR  - P50 CA9729/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Conf Proc IEEE Eng Med Biol Soc
+JT  - Conference proceedings : ... Annual International Conference of the IEEE
+      Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and
+      Biology Society. Annual Conference
+JID - 101243413
+RN  - 0 (Biomarkers, Tumor)
+RN  - 30KYC7MIAI (Aspartic Acid)
+RN  - 997-55-7 (N-acetylaspartate)
+RN  - MU72812GK0 (Creatine)
+RN  - N91BDP6H0X (Choline)
+SB  - IM
+MH  - Aspartic Acid/analogs & derivatives/analysis
+MH  - Biomarkers, Tumor/*analysis
+MH  - Brain/*metabolism/*pathology
+MH  - Brain Neoplasms/*diagnosis/*metabolism
+MH  - Choline/analysis
+MH  - Creatine/analysis
+MH  - Glioma/*diagnosis/*metabolism
+MH  - Image Interpretation, Computer-Assisted/methods
+MH  - Magnetic Resonance Spectroscopy/*methods
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+EDAT- 2007/10/20 09:00
+MHDA- 2008/03/07 09:00
+CRDT- 2007/10/20 09:00
+PHST- 2007/10/20 09:00 [pubmed]
+PHST- 2008/03/07 09:00 [medline]
+PHST- 2007/10/20 09:00 [entrez]
+AID - 10.1109/IEMBS.2006.259793 [doi]
+PST - ppublish
+SO  - Conf Proc IEEE Eng Med Biol Soc. 2006;2006:493-6. doi: 10.1109/IEMBS.2006.259793.
+
+
+PMID- 17540280
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070810
+LR  - 20161124
+IS  - 0730-725X (Print)
+IS  - 0730-725X (Linking)
+VI  - 25
+IP  - 5
+DP  - 2007 Jun
+TI  - Parallel imaging for first-pass myocardial perfusion.
+PG  - 678-83
+AB  - Two parallel imaging methods used for first-pass myocardial perfusion imaging
+      were compared in terms of signal-to-noise ratio (SNR), contrast-to-noise ratio
+      (CNR) and image artifacts. One used adaptive Time-adaptive SENSitivity Encoding
+      (TSENSE) and the other used GeneRalized Autocalibrating Partially Parallel
+      Acquisition (GRAPPA), which are both applied to a gradient-echo sequence. Both
+      methods were tested on 12 patients with coronary artery disease. The order of
+      perfusion sequences was inverted in every other patient. Image acquisition was
+      started during the administration of a contrast bolus followed by a 20-ml saline 
+      flush (3 ml/s), and the next perfusion was started at least 15 min thereafter
+      using an identical bolus. An acceleration rate of 2 was used in both methods, and
+      acquisition was performed during breath-holding. Significantly higher SNR, CNR
+      and image quality were obtained with GRAPPA images than with TSENSE images.
+      GRAPPA, however, did not yield a higher CNR when applied after the second bolus. 
+      GRAPPA perfusion imaging produced larger differences between subjects than did
+      TSENSE. Compared to TSENSE, GRAPPA produced significantly better CNR on the first
+      bolus. More consistent SNR and CNR were obtained from TSENSE images than from
+      GRAPPA images, indicating that the diagnostic value of TSENSE may be better.
+FAU - Irwan, Roy
+AU  - Irwan R
+AD  - Department of Radiology, University Medical Center Groningen, State University
+      Groningen, 9700 RB Groningen, The Netherlands. r.irwan@rad.umcg.nl
+FAU - Lubbers, Daniel D
+AU  - Lubbers DD
+FAU - van der Vleuten, Pieter A
+AU  - van der Vleuten PA
+FAU - Kappert, Peter
+AU  - Kappert P
+FAU - Gotte, Marco J W
+AU  - Gotte MJ
+FAU - Sijens, Paul E
+AU  - Sijens PE
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20061120
+PL  - Netherlands
+TA  - Magn Reson Imaging
+JT  - Magnetic resonance imaging
+JID - 8214883
+RN  - 0 (Contrast Media)
+RN  - 0 (Organometallic Compounds)
+RN  - 6HG8UB2MUY (Meglumine)
+RN  - L0ND3981AG (gadoterate meglumine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Artifacts
+MH  - Contrast Media/administration & dosage
+MH  - Coronary Disease/*pathology
+MH  - Female
+MH  - Humans
+MH  - Image Processing, Computer-Assisted
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Meglumine/administration & dosage
+MH  - Middle Aged
+MH  - Organometallic Compounds/administration & dosage
+EDAT- 2007/06/02 09:00
+MHDA- 2007/08/11 09:00
+CRDT- 2007/06/02 09:00
+PHST- 2006/03/13 00:00 [received]
+PHST- 2006/10/01 00:00 [accepted]
+PHST- 2007/06/02 09:00 [pubmed]
+PHST- 2007/08/11 09:00 [medline]
+PHST- 2007/06/02 09:00 [entrez]
+AID - S0730-725X(06)00310-9 [pii]
+AID - 10.1016/j.mri.2006.10.012 [doi]
+PST - ppublish
+SO  - Magn Reson Imaging. 2007 Jun;25(5):678-83. doi: 10.1016/j.mri.2006.10.012. Epub
+      2006 Nov 20.
+
+
+PMID- 16916707
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070105
+LR  - 20161124
+IS  - 0730-725X (Print)
+IS  - 0730-725X (Linking)
+VI  - 24
+IP  - 7
+DP  - 2006 Sep
+TI  - Fast 3D coronary artery contrast-enhanced magnetic resonance angiography with
+      magnetization transfer contrast, fat suppression and parallel imaging as applied 
+      on an anthropomorphic moving heart phantom.
+PG  - 895-902
+AB  - A magnetic resonance sequence for high-resolution imaging of coronary arteries in
+      a very short acquisition time is presented. The technique is based on fast
+      low-angle shot and uses fat saturation and magnetization transfer contrast
+      prepulses to improve image contrast. GeneRalized Autocalibrating Partially
+      Parallel Acquisitions (GRAPPA) is implemented to shorten acquisition time. The
+      sequence was tested on a moving anthropomorphic silicone heart phantom where the 
+      coronary arteries were filled with a gadolinium contrast agent solution, and
+      imaging was performed at varying heart rates using GRAPPA. The clinical relevance
+      of the phantom was validated by comparing the myocardial relaxation times of the 
+      phantom's homogeneous silicone cardiac wall to those of humans. Signal-to-noise
+      ratio and contrast-to-noise ratio were higher when parallel imaging was used,
+      possibly benefiting from the acquisition of one partition per heartbeat. Another 
+      advantage of parallel imaging for visualizing the coronary arteries is that the
+      entire heart can be imaged within a few breath-holds.
+FAU - Irwan, Roy
+AU  - Irwan R
+AD  - University Medical Center Groningen, State University Groningen, Department of
+      Radiology, P.O. Box 30.001, 9700 RB Groningen, The Netherlands.
+      r.irwan@rad.umcg.nl
+FAU - Russel, Iris K
+AU  - Russel IK
+FAU - Sijens, Paul E
+AU  - Sijens PE
+LA  - eng
+PT  - Journal Article
+DEP - 20060427
+PL  - Netherlands
+TA  - Magn Reson Imaging
+JT  - Magnetic resonance imaging
+JID - 8214883
+RN  - 0 (Contrast Media)
+RN  - 0 (Organometallic Compounds)
+RN  - 6HG8UB2MUY (Meglumine)
+RN  - L0ND3981AG (gadoterate meglumine)
+SB  - IM
+MH  - Contrast Media
+MH  - Coronary Angiography/*methods
+MH  - Coronary Vessels/*anatomy & histology
+MH  - Humans
+MH  - Image Enhancement
+MH  - Image Processing, Computer-Assisted
+MH  - *Imaging, Three-Dimensional
+MH  - Magnetic Resonance Angiography/*methods
+MH  - Meglumine
+MH  - Motion
+MH  - Organometallic Compounds
+MH  - Phantoms, Imaging
+EDAT- 2006/08/19 09:00
+MHDA- 2007/01/06 09:00
+CRDT- 2006/08/19 09:00
+PHST- 2005/07/12 00:00 [received]
+PHST- 2006/03/04 00:00 [accepted]
+PHST- 2006/08/19 09:00 [pubmed]
+PHST- 2007/01/06 09:00 [medline]
+PHST- 2006/08/19 09:00 [entrez]
+AID - S0730-725X(06)00088-9 [pii]
+AID - 10.1016/j.mri.2006.03.003 [doi]
+PST - ppublish
+SO  - Magn Reson Imaging. 2006 Sep;24(7):895-902. doi: 10.1016/j.mri.2006.03.003. Epub 
+      2006 Apr 27.
+
+
+PMID- 17881221
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080521
+LR  - 20131121
+IS  - 0960-8524 (Print)
+IS  - 0960-8524 (Linking)
+VI  - 99
+IP  - 9
+DP  - 2008 Jun
+TI  - Methanol content of grappa made from New York grape pomace.
+PG  - 3923-5
+AB  - This research was undertaken to determine the methanol content of grappa made
+      from the sweet pomace of five grape varieties grown in the Finger Lakes wine
+      region of New York state. The mean concentrations of methanol (N=3) in the
+      distilled spirits made from the pomace samples of Niagara, Cayuga White,
+      Gewurztraminer, Chardonnay, and Riesling grapes were estimated to be 44, 38, 138,
+      55, and 112 mg/100mL of 40% alcohol, respectively. The results of this work
+      indicate that the sweet pomace of five New York grape varieties could be used in 
+      the production of grappa with a methanol level within the United States legal
+      limit of 280 mg/100mL of 40% alcohol.
+FAU - Hang, Yong D
+AU  - Hang YD
+AD  - Department of Food Science and Technology, Cornell University, 630 W North
+      Street, Geneva, NY 14456, USA. YDH1@cornell.edu
+FAU - Woodams, Edward E
+AU  - Woodams EE
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20070918
+PL  - England
+TA  - Bioresour Technol
+JT  - Bioresource technology
+JID - 9889523
+RN  - 0 (Waste Products)
+RN  - Y4S76JWI15 (Methanol)
+SB  - IM
+MH  - Fermentation
+MH  - Methanol/*analysis
+MH  - New York
+MH  - Vitis/*chemistry
+MH  - Waste Products/*analysis
+MH  - Wine/*analysis
+EDAT- 2007/09/21 09:00
+MHDA- 2008/05/22 09:00
+CRDT- 2007/09/21 09:00
+PHST- 2006/07/17 00:00 [received]
+PHST- 2007/07/16 00:00 [revised]
+PHST- 2007/07/16 00:00 [accepted]
+PHST- 2007/09/21 09:00 [pubmed]
+PHST- 2008/05/22 09:00 [medline]
+PHST- 2007/09/21 09:00 [entrez]
+AID - S0960-8524(07)00623-2 [pii]
+AID - 10.1016/j.biortech.2007.07.065 [doi]
+PST - ppublish
+SO  - Bioresour Technol. 2008 Jun;99(9):3923-5. doi: 10.1016/j.biortech.2007.07.065.
+      Epub 2007 Sep 18.
+
+
+PMID- 17507810
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070719
+LR  - 20131121
+IS  - 0020-9996 (Print)
+IS  - 0020-9996 (Linking)
+VI  - 42
+IP  - 6
+DP  - 2007 Jun
+TI  - 3.0 Tesla high spatial resolution contrast-enhanced magnetic resonance
+      angiography (CE-MRA) of the pulmonary circulation: initial experience with a
+      32-channel phased array coil using a high relaxivity contrast agent.
+PG  - 392-8
+AB  - PURPOSE: To evaluate the technical feasibility of high spatial resolution
+      contrast-enhanced magnetic resonance angiography (CE-MRA) with highly accelerated
+      parallel acquisition at 3.0 T using a 32-channel phased array coil, and a high
+      relaxivity contrast agent. MATERIALS AND METHODS: Ten adult healthy volunteers (5
+      men, 5 women, aged 21-66 years) underwent high spatial resolution CE-MRA of the
+      pulmonary circulation. Imaging was performed at 3 T using a 32-channel phase
+      array coil. After intravenous injection of 1 mL of gadobenate dimeglumine
+      (Gd-BOPTA) at 1.5 mL/s, a timing bolus was used to measure the transit time from 
+      the arm vein to the main pulmonary artery. Subsequently following intravenous
+      injection of 0.1 mmol/kg of Gd-BOPTA at the same rate, isotropic high spatial
+      resolution data sets (1 x 1 x 1 mm3) CE-MRA of the entire pulmonary circulation
+      were acquired using a fast gradient-recalled echo sequence (TR/TE 3/1.2
+      milliseconds, FA 18 degrees) and highly accelerated parallel acquisition (GRAPPA 
+      x 6) during a 20-second breath hold. The presence of artifact, noise, and image
+      quality of the pulmonary arterial segments were evaluated independently by 2
+      radiologists. Phantom measurements were performed to assess the signal-to-noise
+      ratio (SNR). Statistical analysis of data was performed by using Wilcoxon rank
+      sum test and 2-sample Student t test. The interobserver variability was tested by
+      kappa coefficient. RESULTS: All studies were of diagnostic quality as determined 
+      by both observers. The pulmonary arteries were routinely identified up to
+      fifth-order branches, with definition in the diagnostic range and excellent
+      interobserver agreement (kappa = 0.84, 95% confidence interval 0.77-0.90).
+      Phantom measurements showed significantly lower SNR (P < 0.01) using GRAPPA (17.3
+      +/- 18.8) compared with measurements without parallel acquisition (58 +/- 49.4). 
+      CONCLUSION: The described 3 T CE-MRA protocol in addition to high T1 relaxivity
+      of Gd-BOPTA provides sufficient SNR to support highly accelerated parallel
+      acquisition (GRAPPA x 6), resulting in acquisition of isotopic (1 x 1 x 1 mm3)
+      voxels over the entire pulmonary circulation in 20 seconds.
+FAU - Nael, Kambiz
+AU  - Nael K
+AD  - Department of Radiological Sciences, David Geffen School of Medicine, University 
+      of California Los Angeles, CA 90095-7206, USA. nkambiz@mednet.ucla.edu
+FAU - Fenchel, Michael
+AU  - Fenchel M
+FAU - Krishnam, Mayil
+AU  - Krishnam M
+FAU - Finn, J Paul
+AU  - Finn JP
+FAU - Laub, Gerhard
+AU  - Laub G
+FAU - Ruehm, Stefan G
+AU  - Ruehm SG
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Invest Radiol
+JT  - Investigative radiology
+JID - 0045377
+RN  - 0 (Contrast Media)
+RN  - 0 (Organometallic Compounds)
+RN  - 15G12L5X8K (gadobenic acid)
+RN  - 6HG8UB2MUY (Meglumine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Artifacts
+MH  - Contrast Media/pharmacokinetics
+MH  - Feasibility Studies
+MH  - Female
+MH  - Humans
+MH  - Image Processing, Computer-Assisted
+MH  - Magnetic Resonance Angiography/*methods
+MH  - Male
+MH  - Meglumine/analogs & derivatives/pharmacokinetics
+MH  - Middle Aged
+MH  - Organometallic Compounds/pharmacokinetics
+MH  - Phantoms, Imaging
+MH  - Prospective Studies
+MH  - *Pulmonary Circulation
+MH  - Statistics, Nonparametric
+EDAT- 2007/05/18 09:00
+MHDA- 2007/07/20 09:00
+CRDT- 2007/05/18 09:00
+PHST- 2007/05/18 09:00 [pubmed]
+PHST- 2007/07/20 09:00 [medline]
+PHST- 2007/05/18 09:00 [entrez]
+AID - 10.1097/01.rli.0000261937.77365.6a [doi]
+AID - 00004424-200706000-00009 [pii]
+PST - ppublish
+SO  - Invest Radiol. 2007 Jun;42(6):392-8. doi: 10.1097/01.rli.0000261937.77365.6a.
+
+
+PMID- 17457872
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070613
+LR  - 20150525
+IS  - 0740-3194 (Print)
+IS  - 0740-3194 (Linking)
+VI  - 57
+IP  - 5
+DP  - 2007 May
+TI  - Spectral phase-corrected GRAPPA reconstruction of three-dimensional echo-planar
+      spectroscopic imaging (3D-EPSI).
+PG  - 815-20
+AB  - MR spectroscopic (MRS) images from a large volume of brain can be obtained using 
+      a 3D echo-planar spectroscopic imaging (3D-EPSI) sequence. However, routine
+      applications of 3D-EPSI are still limited by a long scan time. In this
+      communication, a new approach termed "spectral phase-corrected generalized
+      autocalibrating partially parallel acquisitions" (SPC-GRAPPA) is introduced for
+      the reconstruction of 3D-EPSI data to accelerate data acquisition while
+      preserving the accuracy of quantitation of brain metabolites. In SPC-GRAPPA,
+      voxel-by-voxel spectral phase alignment between metabolite 3D-EPSI from
+      individual coil elements is performed in the frequency domain, utilizing the
+      whole spectrum from interleaved water reference 3D-EPSI for robust estimation of 
+      the zero-order phase correction. The performance of SPC-GRAPPA was compared with 
+      that of fully encoded 3D-EPSI and conventional GRAPPA. Analysis of whole-brain
+      3D-EPSI data reconstructed by SPC-GRAPPA demonstrates that SPC-GRAPPA with an
+      acceleration factor of 1.5 yields results very similar to those obtained by fully
+      encoded 3D-EPSI, and is more accurate than conventional GRAPPA.
+CI  - (c) 2007 Wiley-Liss, Inc.
+FAU - Zhu, Xiaoping
+AU  - Zhu X
+AD  - Department of Radiology, University of California-San Francisco, San Francisco,
+      California, USA. Xiaoping.Zhu@ucsf.edu
+FAU - Ebel, Andreas
+AU  - Ebel A
+FAU - Ji, Jim X
+AU  - Ji JX
+FAU - Schuff, Norbert
+AU  - Schuff N
+LA  - eng
+GR  - AG10897/AG/NIA NIH HHS/United States
+GR  - AG12435/AG/NIA NIH HHS/United States
+GR  - EB000766/EB/NIBIB NIH HHS/United States
+GR  - EB00207/EB/NIBIB NIH HHS/United States
+GR  - EB00822/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Magn Reson Med
+JT  - Magnetic resonance in medicine
+JID - 8505245
+RN  - 30KYC7MIAI (Aspartic Acid)
+RN  - 997-55-7 (N-acetylaspartate)
+RN  - MU72812GK0 (Creatine)
+RN  - N91BDP6H0X (Choline)
+SB  - IM
+MH  - Aspartic Acid/analogs & derivatives/metabolism
+MH  - Brain/*metabolism
+MH  - Choline/metabolism
+MH  - Creatine/metabolism
+MH  - Echo-Planar Imaging/*methods
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/*methods
+MH  - *Imaging, Three-Dimensional
+MH  - Magnetic Resonance Spectroscopy/*methods
+MH  - Middle Aged
+EDAT- 2007/04/26 09:00
+MHDA- 2007/06/15 09:00
+CRDT- 2007/04/26 09:00
+PHST- 2007/04/26 09:00 [pubmed]
+PHST- 2007/06/15 09:00 [medline]
+PHST- 2007/04/26 09:00 [entrez]
+AID - 10.1002/mrm.21217 [doi]
+PST - ppublish
+SO  - Magn Reson Med. 2007 May;57(5):815-20. doi: 10.1002/mrm.21217.
+
+
+PMID- 17321134
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080107
+LR  - 20071102
+IS  - 0960-8524 (Print)
+IS  - 0960-8524 (Linking)
+VI  - 99
+IP  - 2
+DP  - 2008 Jan
+TI  - Volatile components of grape pomaces from different cultivars of Sicilian Vitis
+      vinifera L.
+PG  - 260-8
+AB  - The volatile components of grape pomace coming from the processing of some of the
+      most important varieties of grape (Vitis vinifera L.) cultivated in Sicily,
+      namely Nero d'Avola, Nerello Mascalese, Frappato and Cabernet Sauvignon, have
+      been determined by gas-chromatography (GC) and gas-chromatography-mass
+      spectrometry (GC-MS). According to the winemaking procedure that entails the
+      removal of stalks before fermentation, two kinds of grape pomace are obtained.
+      The first consists of skins, pulp residues and seeds, the proper grape pomace,
+      which is partially used for grappa, a typical Italian spirit, and alcohol
+      production, the second consists almost exclusively of stalks. On the whole, 38
+      components have been characterized in the samples of grape pomaces, with Frappato
+      cv. showing the richest composition; instead, 88 components have been detected in
+      the stalks of Frappato, Nero d'Avola, Nerello Mascalese and Cabernet Sauvignon
+      varieties. In order to make a comparison between the grape varieties easier, the 
+      volatile components detected in the two sets of samples (grape pomaces and
+      stalks) have been grouped in different classes. Significant differences among
+      varieties have been detected and statistical treatment of data is also reported. 
+      This study is part of a wider project aimed at the possible exploitation of the
+      main agro-industrial by-products. At the same time it is one of the first reports
+      on the volatile components of this waste material.
+FAU - Ruberto, Giuseppe
+AU  - Ruberto G
+AD  - Istituto del CNR di Chimica Biomolecolare, Via del Santuario 110, I-95028
+      Valverde, CT, Italy. giuseppe.ruberto@icb.cnr.it
+FAU - Renda, Agatino
+AU  - Renda A
+FAU - Amico, Vincenzo
+AU  - Amico V
+FAU - Tringali, Corrado
+AU  - Tringali C
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070223
+PL  - England
+TA  - Bioresour Technol
+JT  - Bioresource technology
+JID - 9889523
+RN  - 0 (Alcohols)
+RN  - 0 (Aldehydes)
+RN  - 0 (Carboxylic Acids)
+RN  - 0 (Hydrocarbons)
+RN  - 0 (Terpenes)
+SB  - IM
+MH  - Alcohols/analysis
+MH  - Aldehydes/analysis
+MH  - Carboxylic Acids/analysis
+MH  - Gas Chromatography-Mass Spectrometry
+MH  - Hydrocarbons/analysis
+MH  - Plant Stems/chemistry
+MH  - Sicily
+MH  - Terpenes/analysis
+MH  - Vitis/*chemistry/*classification
+MH  - Wine/analysis
+EDAT- 2007/02/27 09:00
+MHDA- 2008/01/08 09:00
+CRDT- 2007/02/27 09:00
+PHST- 2006/08/30 00:00 [received]
+PHST- 2006/12/22 00:00 [revised]
+PHST- 2006/12/23 00:00 [accepted]
+PHST- 2007/02/27 09:00 [pubmed]
+PHST- 2008/01/08 09:00 [medline]
+PHST- 2007/02/27 09:00 [entrez]
+AID - S0960-8524(07)00020-X [pii]
+AID - 10.1016/j.biortech.2006.12.025 [doi]
+PST - ppublish
+SO  - Bioresour Technol. 2008 Jan;99(2):260-8. doi: 10.1016/j.biortech.2006.12.025.
+      Epub 2007 Feb 23.
+
+
+PMID- 18429025
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080805
+LR  - 20150525
+IS  - 0740-3194 (Print)
+IS  - 0740-3194 (Linking)
+VI  - 59
+IP  - 5
+DP  - 2008 May
+TI  - Accelerated proton echo planar spectroscopic imaging (PEPSI) using GRAPPA with a 
+      32-channel phased-array coil.
+PG  - 989-98
+LID - 10.1002/mrm.21545 [doi]
+AB  - Parallel imaging has been demonstrated to reduce the encoding time of MR
+      spectroscopic imaging (MRSI). Here we investigate up to 5-fold acceleration of 2D
+      proton echo planar spectroscopic imaging (PEPSI) at 3T using generalized
+      autocalibrating partial parallel acquisition (GRAPPA) with a 32-channel coil
+      array, 1.5 cm(3) voxel size, TR/TE of 15/2000 ms, and 2.1 Hz spectral resolution.
+      Compared to an 8-channel array, the smaller RF coil elements in this 32-channel
+      array provided a 3.1-fold and 2.8-fold increase in signal-to-noise ratio (SNR) in
+      the peripheral region and the central region, respectively, and more spatial
+      modulated information. Comparison of sensitivity-encoding (SENSE) and GRAPPA
+      reconstruction using an 8-channel array showed that both methods yielded similar 
+      quantitative metabolite measures (P > 0.1). Concentration values of
+      N-acetyl-aspartate (NAA), total creatine (tCr), choline (Cho), myo-inositol (mI),
+      and the sum of glutamate and glutamine (Glx) for both methods were consistent
+      with previous studies. Using the 32-channel array coil the mean Cramer-Rao lower 
+      bounds (CRLB) were less than 8% for NAA, tCr, and Cho and less than 15% for mI
+      and Glx at 2-fold acceleration. At 4-fold acceleration the mean CRLB for NAA,
+      tCr, and Cho was less than 11%. In conclusion, the use of a 32-channel coil array
+      and GRAPPA reconstruction can significantly reduce the measurement time for
+      mapping brain metabolites.
+CI  - (c) 2008 Wiley-Liss, Inc.
+FAU - Tsai, Shang-Yueh
+AU  - Tsai SY
+AD  - Department of Electrical Engineering, National Taiwan University, Taipei, Taiwan.
+FAU - Otazo, Ricardo
+AU  - Otazo R
+FAU - Posse, Stefan
+AU  - Posse S
+FAU - Lin, Yi-Ru
+AU  - Lin YR
+FAU - Chung, Hsiao-Wen
+AU  - Chung HW
+FAU - Wald, Lawrence L
+AU  - Wald LL
+FAU - Wiggins, Graham C
+AU  - Wiggins GC
+FAU - Lin, Fa-Hsuan
+AU  - Lin FH
+LA  - eng
+GR  - P41 RR 14075/RR/NCRR NIH HHS/United States
+GR  - R01 EB 000790/EB/NIBIB NIH HHS/United States
+GR  - R01 HD 040712/HD/NICHD NIH HHS/United States
+GR  - R01 NS 037462/NS/NINDS NIH HHS/United States
+GR  - R21 EB 007928/EB/NIBIB NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Magn Reson Med
+JT  - Magnetic resonance in medicine
+JID - 8505245
+RN  - 0 (Protons)
+RN  - 0RH81L854J (Glutamine)
+RN  - 30KYC7MIAI (Aspartic Acid)
+RN  - 3KX376GY7L (Glutamic Acid)
+RN  - 4L6452S749 (Inositol)
+RN  - 997-55-7 (N-acetylaspartate)
+RN  - MU72812GK0 (Creatine)
+RN  - N91BDP6H0X (Choline)
+SB  - IM
+MH  - Aspartic Acid/analogs & derivatives/metabolism
+MH  - Brain/*metabolism
+MH  - Choline/metabolism
+MH  - Creatine/metabolism
+MH  - Feasibility Studies
+MH  - Glutamic Acid/metabolism
+MH  - Glutamine/metabolism
+MH  - Humans
+MH  - Image Processing, Computer-Assisted
+MH  - Inositol/metabolism
+MH  - Magnetic Resonance Spectroscopy/instrumentation/*methods
+MH  - Phantoms, Imaging
+MH  - Protons
+EDAT- 2008/04/23 09:00
+MHDA- 2008/08/06 09:00
+CRDT- 2008/04/23 09:00
+PHST- 2008/04/23 09:00 [pubmed]
+PHST- 2008/08/06 09:00 [medline]
+PHST- 2008/04/23 09:00 [entrez]
+AID - 10.1002/mrm.21545 [doi]
+PST - ppublish
+SO  - Magn Reson Med. 2008 May;59(5):989-98. doi: 10.1002/mrm.21545.
+
+
+PMID- 19576419
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090914
+LR  - 20131121
+IS  - 1873-3573 (Electronic)
+IS  - 0039-9140 (Linking)
+VI  - 79
+IP  - 3
+DP  - 2009 Aug 15
+TI  - Usage of Empore membrane in alcoholic media for copper(II) distribution studies.
+PG  - 603-12
+LID - 10.1016/j.talanta.2009.04.034 [doi]
+AB  - The sorption of copper(II) on a solid, iminodiacetic based, chelating material,
+      the Empore membrane, in alcoholic solutions is considered. Determination of the
+      acid-base properties, kinetic of metal sorption and complexing properties, in
+      solutions with different percentages of ethanol, ranging from 0 to 40% is
+      undertaken. The results are compared with those obtained using the classical
+      iminodiacetic resin Chelex 100 in beads. No significant differences are found in 
+      the thermodynamic properties, but the kinetics of the metal sorption on the
+      membrane is slower and a dependence of the process rate with the alcoholic
+      content is observed. In the present investigation, the detection of copper(II)
+      species both in alcoholic Italian distillate "grappa" and in its intermediate
+      product ("flemma"), is carried out by the Resin Titration (RT) method using, as
+      competitive reagent, the Empore membrane. To validate the procedure, synthetic
+      solutions containing different percentages of ethanol are analysed.
+FAU - Alberti, Giancarla
+AU  - Alberti G
+AD  - Dipartimento di Chimica Generale, Universita di Pavia, via Taramelli 12, 27100
+      Pavia, Italy. galberti@unipv.it
+FAU - Guiso, Maria Giovanna
+AU  - Guiso MG
+FAU - Biesuz, Raffaela
+AU  - Biesuz R
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090503
+PL  - Netherlands
+TA  - Talanta
+JT  - Talanta
+JID - 2984816R
+RN  - 0 (Alcohols)
+RN  - 0 (Imino Acids)
+RN  - 0 (Indicators and Reagents)
+RN  - 0 (Membranes, Artificial)
+RN  - 0 (Protons)
+RN  - 059QF0KO0R (Water)
+RN  - 789U1901C5 (Copper)
+RN  - XQM2L81M8Z (iminodiacetic acid)
+SB  - IM
+MH  - Absorption
+MH  - Alcohols/*chemistry
+MH  - Copper/analysis/*chemistry
+MH  - Hydrogen-Ion Concentration
+MH  - Imino Acids/chemistry
+MH  - Indicators and Reagents/chemistry
+MH  - Kinetics
+MH  - *Membranes, Artificial
+MH  - Protons
+MH  - Titrimetry
+MH  - Water/chemistry
+EDAT- 2009/07/07 09:00
+MHDA- 2009/09/15 06:00
+CRDT- 2009/07/07 09:00
+PHST- 2009/01/19 00:00 [received]
+PHST- 2009/04/07 00:00 [revised]
+PHST- 2009/04/16 00:00 [accepted]
+PHST- 2009/07/07 09:00 [entrez]
+PHST- 2009/07/07 09:00 [pubmed]
+PHST- 2009/09/15 06:00 [medline]
+AID - S0039-9140(09)00341-5 [pii]
+AID - 10.1016/j.talanta.2009.04.034 [doi]
+PST - ppublish
+SO  - Talanta. 2009 Aug 15;79(3):603-12. doi: 10.1016/j.talanta.2009.04.034. Epub 2009 
+      May 3.
+
+
+PMID- 20981502
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110602
+LR  - 20181113
+IS  - 1826-6983 (Electronic)
+IS  - 0033-8362 (Linking)
+VI  - 116
+IP  - 2
+DP  - 2011 Mar
+TI  - Role of echocardiography and cardiac MRI in depicting morphological and
+      functional imaging findings useful for diagnosing hypertrophic cardiomyopathy.
+PG  - 197-210
+LID - 10.1007/s11547-010-0603-3 [doi]
+AB  - PURPOSE: Hypertrophic cardiomyopathy (HCM) is a hereditary disease characterised 
+      by primary hypertrophy of the left and/or right ventricle. The reference standard
+      for imaging diagnosis is echocardiography. The aim of our study was to
+      prospectively compare the diagnostic accuracy of echocardiography and cardiac
+      magnetic resonance (MR) imaging in patients with HCM. MATERIALS AND METHODS:
+      Twenty-two consecutive patients with a known diagnosis of HCM were prospectively 
+      evaluated, with echocardiography and cardiac MR imaging performed within 2 weeks 
+      of each other (mean interval 7 days, range 2-14 days). Two experienced
+      radiologists blinded to the previous clinical and imaging findings separately
+      reviewed the images. The following parameters were calculated for both
+      techniques: myocardial mass, wall thickness, end-diastolic volume (EDV),
+      end-systolic volume (ESV), ejection fraction (EF), systolic anterior motion (SAM)
+      of the mitral valve and degree of myocardial fibrosis (based on the ultrasonic
+      reflectivity at echocardiography and degree of late enhancement at cardiac MR
+      imaging). The statistical correlation was calculated with Student's t test,
+      Spearman coefficient and Fisher's exact test. A value of p<0.05 was considered
+      significant. RESULTS: The diagnosis of HCM was confirmed in all patients with
+      both techniques, with absolute agreement in terms of the site of disease. The
+      mean value of myocardial mass presented a statistically significant difference
+      between the two techniques (114 g, p<0.001). In contrast, a nonsignificant
+      difference between echocardiography and cardiac MR imaging was found for EDV (102
+      ml vs 111 ml; p=0.31), ESV (30 ml vs 38 ml; p=0.1), EF (74% vs 68%, p=0.5), SAM
+      (p=0.1) and myocardial fibrosis (p=0.15). CONCLUSIONS: Cardiac MR imaging
+      correlates well with echocardiography in defining the morphological and
+      functional parameters useful for the imaging diagnosis of HCM and therefore, in
+      selected cases (poor acoustic window, doubtful echocardiography findings), it may
+      be a valid alternative to echocardiography.
+FAU - Guarise, A
+AU  - Guarise A
+AD  - Radiologia, Ospedale San Bassiano, Via dei Lotti 61, 36060, Bassano del Grappa,
+      Italy. aguarise@sirm.org
+FAU - Faccioli, N
+AU  - Faccioli N
+FAU - Foti, G
+AU  - Foti G
+FAU - Da Pozzo, S
+AU  - Da Pozzo S
+FAU - Meneghetti, P
+AU  - Meneghetti P
+FAU - Morana, G
+AU  - Morana G
+LA  - eng
+LA  - ita
+PT  - Journal Article
+DEP - 20101027
+PL  - Italy
+TA  - Radiol Med
+JT  - La Radiologia medica
+JID - 0177625
+RN  - 0 (Contrast Media)
+RN  - 0 (Organometallic Compounds)
+RN  - 6HG8UB2MUY (Meglumine)
+RN  - L0ND3981AG (gadoterate meglumine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Cardiomyopathy, Hypertrophic/*diagnosis/diagnostic imaging
+MH  - Contrast Media
+MH  - Echocardiography/*methods
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Meglumine
+MH  - Middle Aged
+MH  - Organometallic Compounds
+MH  - Prospective Studies
+EDAT- 2010/10/29 06:00
+MHDA- 2011/06/03 06:00
+CRDT- 2010/10/29 06:00
+PHST- 2010/02/12 00:00 [received]
+PHST- 2010/03/05 00:00 [accepted]
+PHST- 2010/10/29 06:00 [entrez]
+PHST- 2010/10/29 06:00 [pubmed]
+PHST- 2011/06/03 06:00 [medline]
+AID - 10.1007/s11547-010-0603-3 [doi]
+PST - ppublish
+SO  - Radiol Med. 2011 Mar;116(2):197-210. doi: 10.1007/s11547-010-0603-3. Epub 2010
+      Oct 27.
+
+
+PMID- 22805957
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130211
+LR  - 20181113
+IS  - 1573-0972 (Electronic)
+IS  - 0959-3993 (Linking)
+VI  - 28
+IP  - 4
+DP  - 2012 Apr
+TI  - Influence of specific fermentation conditions on natural microflora of pomace in 
+      "Grappa" production.
+PG  - 1747-59
+LID - 10.1007/s11274-011-0989-7 [doi]
+AB  - As reported in the European Community regulation, grappa is a spirit beverage
+      made in Italy from marc that has been steam distilled or distilled after the
+      addition of water. Grape marc from red grapes has already undergone alcoholic
+      fermentation with the must and can be distilled immediately. Grape marc from
+      white grapes does not contain ethanol but contains sugars that are fermented by
+      spontaneous anaerobic fermentation during a storage period. The characteristic
+      aroma of grappa consists of a large number of volatile compounds, which arise
+      from various sources, the most important of which is yeast. Very few studies have
+      been undertaken to characterize the natural populations of yeast during the
+      fermentation of grape marc. The goal of this study was to understand how
+      different pHs, temperatures and yeast starter cultures affect the growth and
+      dynamics of yeast species involved in pomace fermentation, which could be the
+      basis for improving the final quality of grappa production. We found that a
+      temperature of 15 degrees C has the greatest effect on improving the quality of
+      the product. Unfortunately, due to the solid state of the grape marc and the
+      impossibility of its mixing, it appears that acidification and the addition of
+      yeast starter cultures during the silage period are not effective.
+FAU - Iacumin, Lucilla
+AU  - Iacumin L
+AD  - Department of Food Science, University of Udine, via Sondrio 2/A, 33100, Udine,
+      Italy. lucilla.iacumin@uniud.it
+FAU - Manzano, Marisa
+AU  - Manzano M
+FAU - Cecchini, Francesca
+AU  - Cecchini F
+FAU - Orlic, Sandi
+AU  - Orlic S
+FAU - Zironi, Roberto
+AU  - Zironi R
+FAU - Comi, Giuseppe
+AU  - Comi G
+LA  - eng
+PT  - Journal Article
+DEP - 20111225
+PL  - Germany
+TA  - World J Microbiol Biotechnol
+JT  - World journal of microbiology & biotechnology
+JID - 9012472
+RN  - 0 (DNA, Fungal)
+SB  - IM
+MH  - Beverages/*microbiology
+MH  - *Biodiversity
+MH  - Cluster Analysis
+MH  - DNA, Fungal/genetics
+MH  - Denaturing Gradient Gel Electrophoresis
+MH  - Fermentation
+MH  - Fungi/*classification/genetics/growth & development/*metabolism
+MH  - Genotype
+MH  - Hydrogen-Ion Concentration
+MH  - Italy
+MH  - Molecular Typing
+MH  - Mycological Typing Techniques
+MH  - Random Amplified Polymorphic DNA Technique
+MH  - Temperature
+MH  - Vitis/*microbiology
+EDAT- 2012/07/19 06:00
+MHDA- 2013/02/12 06:00
+CRDT- 2012/07/19 06:00
+PHST- 2011/08/04 00:00 [received]
+PHST- 2011/12/19 00:00 [accepted]
+PHST- 2012/07/19 06:00 [entrez]
+PHST- 2012/07/19 06:00 [pubmed]
+PHST- 2013/02/12 06:00 [medline]
+AID - 10.1007/s11274-011-0989-7 [doi]
+PST - ppublish
+SO  - World J Microbiol Biotechnol. 2012 Apr;28(4):1747-59. doi:
+      10.1007/s11274-011-0989-7. Epub 2011 Dec 25.
+
+
+PMID- 21615635
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111103
+LR  - 20181201
+IS  - 1365-2672 (Electronic)
+IS  - 1364-5072 (Linking)
+VI  - 111
+IP  - 2
+DP  - 2011 Aug
+TI  - Effects of grape marcs acidification treatment on the evolution of indigenous
+      yeast populations during the production of grappa.
+PG  - 382-8
+LID - 10.1111/j.1365-2672.2011.05060.x [doi]
+AB  - AIMS: Grappa is a typical Italian product obtained from the distillation of grape
+      marcs, the main by-product of grape crushing. One technological treatment
+      frequently performed on marcs is their acidification, in order to contrast the
+      development of unwanted spoilage bacteria during the storage period needed for
+      alcoholic fermentation. A pilot-scale experiment was set-up to study the dynamics
+      of yeast populations during a 30-day fermentation of acidified and nonacidified
+      Prosecco grape pomace. METHODS AND RESULTS: Saccharomyces cerevisiae population, 
+      examined after 4 and 15 days of storage by mitochondrial DNA-RFLP analysis,
+      resulted considerably different at strain level upon acidification. In
+      particular, although the number of different strains rescued appeared
+      particularly high in both kind of marcs compared with what happens in must
+      fermentation, in the acidified material such number tends to moderately decrease 
+      during storage. CONCLUSIONS: Results obtained evidence that the acidification
+      treatment did not influence yeast population neither in terms of number of cells 
+      nor in terms of biodiversity at species level. Therefore, such treatment can be
+      used in distillery without negatively influencing ethanol production.
+      SIGNIFICANCE AND IMPACT OF STUDY: Even though some data are available on the
+      effects of technological treatments on the chemical composition of the
+      distillate, no microbiological studies have been published so far on the
+      consequence of these practices on composition, biodiversity and evolution of
+      yeast population.
+CI  - (c) 2011 The Authors. Journal of Applied Microbiology (c) 2011 The Society for
+      Applied Microbiology.
+FAU - Bovo, B
+AU  - Bovo B
+AD  - Dipartimento di Biotecnologie Agrarie, Universita di Padova, viale
+      dell'Universita, Legnaro, Padova, Italy.
+FAU - Giacomini, A
+AU  - Giacomini A
+FAU - Corich, V
+AU  - Corich V
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110614
+PL  - England
+TA  - J Appl Microbiol
+JT  - Journal of applied microbiology
+JID - 9706280
+RN  - 0 (Acids)
+RN  - 0 (DNA, Fungal)
+RN  - 0 (DNA, Mitochondrial)
+RN  - 0 (DNA, Ribosomal Spacer)
+RN  - 3K9958V90M (Ethanol)
+SB  - IM
+MH  - Acids/*metabolism
+MH  - Alcoholic Beverages/*microbiology
+MH  - Biodiversity
+MH  - DNA, Fungal/genetics
+MH  - DNA, Mitochondrial/genetics
+MH  - DNA, Ribosomal Spacer/genetics
+MH  - Ethanol
+MH  - *Fermentation
+MH  - Food Microbiology
+MH  - Hydrogen-Ion Concentration
+MH  - Phylogeny
+MH  - Population Dynamics
+MH  - Saccharomyces cerevisiae/genetics/*growth & development
+MH  - Sequence Analysis, DNA
+MH  - Vitis/*microbiology
+EDAT- 2011/05/28 06:00
+MHDA- 2011/11/04 06:00
+CRDT- 2011/05/28 06:00
+PHST- 2011/05/28 06:00 [entrez]
+PHST- 2011/05/28 06:00 [pubmed]
+PHST- 2011/11/04 06:00 [medline]
+AID - 10.1111/j.1365-2672.2011.05060.x [doi]
+PST - ppublish
+SO  - J Appl Microbiol. 2011 Aug;111(2):382-8. doi: 10.1111/j.1365-2672.2011.05060.x.
+      Epub 2011 Jun 14.
+
+
+PMID- 25475330
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150717
+LR  - 20191210
+IS  - 1095-9998 (Electronic)
+IS  - 0740-0020 (Linking)
+VI  - 46
+DP  - 2015 Apr
+TI  - Outlining a selection procedure for Saccharomyces cerevisiae isolated from grape 
+      marc to improve fermentation process and distillate quality.
+PG  - 573-581
+LID - S0740-0020(14)00251-2 [pii]
+LID - 10.1016/j.fm.2014.10.001 [doi]
+AB  - Nowadays grape marc represents one of the main by-product of winemaking. Many
+      South Europe countries valorize this ligno-cellulosic waste through fermentation 
+      and distillation for industrial alcoholic beverage production. The storage of
+      marcs is a crucial phase in the distillation process, due to the physicochemical 
+      transformations ascribed to microbial activity. Among the methods adopted by
+      distillers to improve the quality of spirits, the use of selected yeasts has not 
+      been explored so far, therefore in this work we evaluated the selection criteria 
+      of Saccharomyces cerevisiae strains for grape marc fermentation. The proposed
+      selection procedure included three steps: characterization of phenotypical
+      traits, evaluation of selected strains on pasteurised grape marc at lab-scale
+      (100 g) and pilot-scale fermentation (350 kg). This selection process was applied
+      on 104 strains isolated from grape marcs of different origins and technological
+      treatment. Among physiological traits, beta-glucosidase activity level as quality
+      trait seems to be only partially involved in increasing varietal flavour. More
+      effective in describing yeast impact on distillate quality is the ratio higher
+      alcohols/esters that indicates strain ability to increase positive flavours.
+      Finally, evaluating grape marc as source of selected yeasts, industrial treatment
+      rather than varietal origin seems to shape strain technological and quality
+      traits.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - Bovo, Barbara
+AU  - Bovo B
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro PD, Italy.
+FAU - Carlot, Milena
+AU  - Carlot M
+AD  - Centro Interdipartimentale per la Ricerca in Viticoltura ed Enologia
+      (C.I.R.V.E.), Universita degli Studi di Padova, Conegliano TV, Italy.
+FAU - Fontana, Federico
+AU  - Fontana F
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro PD, Italy.
+FAU - Lombardi, Angiolella
+AU  - Lombardi A
+AD  - Istituto per la Qualita e le Tecnologie Agroalimentari, Veneto Agricoltura,
+      Thiene VI, Italy.
+FAU - Soligo, Stefano
+AU  - Soligo S
+AD  - Centro Regionale per la Viticoltura l'Enologia e la Grappa (CeRVEG), Conegliano
+      TV, Italy.
+FAU - Giacomini, Alessio
+AU  - Giacomini A
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro PD, Italy; Centro Interdipartimentale
+      per la Ricerca in Viticoltura ed Enologia (C.I.R.V.E.), Universita degli Studi di
+      Padova, Conegliano TV, Italy. Electronic address: alessio.giacomini@unipd.it.
+FAU - Corich, Viviana
+AU  - Corich V
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro PD, Italy; Centro Interdipartimentale
+      per la Ricerca in Viticoltura ed Enologia (C.I.R.V.E.), Universita degli Studi di
+      Padova, Conegliano TV, Italy.
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141014
+PL  - England
+TA  - Food Microbiol
+JT  - Food microbiology
+JID - 8601127
+SB  - IM
+MH  - Distillation
+MH  - Fermentation
+MH  - Food Microbiology/*methods
+MH  - Humans
+MH  - Saccharomyces cerevisiae/*isolation & purification/metabolism
+MH  - Taste
+MH  - Vitis/metabolism/*microbiology
+MH  - Wine/*analysis/microbiology
+OTO - NOTNLM
+OT  - Biodiversity
+OT  - By-product
+OT  - GC/MS analysis
+OT  - Higher alcohols
+OT  - mtDNA-RFLP
+EDAT- 2014/12/06 06:00
+MHDA- 2015/07/18 06:00
+CRDT- 2014/12/06 06:00
+PHST- 2014/07/04 00:00 [received]
+PHST- 2014/08/26 00:00 [revised]
+PHST- 2014/10/06 00:00 [accepted]
+PHST- 2014/12/06 06:00 [entrez]
+PHST- 2014/12/06 06:00 [pubmed]
+PHST- 2015/07/18 06:00 [medline]
+AID - S0740-0020(14)00251-2 [pii]
+AID - 10.1016/j.fm.2014.10.001 [doi]
+PST - ppublish
+SO  - Food Microbiol. 2015 Apr;46:573-581. doi: 10.1016/j.fm.2014.10.001. Epub 2014 Oct
+      14.
+
+
+PMID- 24750811
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150121
+LR  - 20140422
+IS  - 1095-9998 (Electronic)
+IS  - 0740-0020 (Linking)
+VI  - 41
+DP  - 2014 Aug
+TI  - Exploring the use of Saccharomyces cerevisiae commercial strain and
+      Saccharomycodes ludwigii natural isolate for grape marc fermentation to improve
+      sensory properties of spirits.
+PG  - 33-41
+LID - 10.1016/j.fm.2014.01.006 [doi]
+LID - S0740-0020(14)00009-4 [pii]
+AB  - In Mediterranean countries the most diffuse practice to obtain the valorization
+      of grape marc, the main by-product from winemaking, is the production of spirits.
+      During this process, marc storage for sugar fermentation represents a crucial
+      step, since side-fermentations leading to off-flavours production can very easily
+      occur. In this study we evaluated the effect of the addition of two yeast
+      strains, inoculated separately at the beginning of the storage period, into marcs
+      from two Italian grape varieties with the aim to control the development of
+      autochthonous microbiota and to improve spirit quality. The presence of the
+      inoculated strains was monitored by means of PCR-based approaches. A commercial
+      Saccharomyces cerevisiae strain, chosen as this species is notably the best
+      ethanol producer, showed excellent ability to dominate the autochthonous
+      microflora and to reduce off-flavours as demonstrated by chemical analysis and
+      sensory evaluation. A Saccharomycodes ludwigii strain, chosen for increasing
+      varietal compounds thus enhancing spirit aroma, showed a level of implantation
+      not sufficient to assure a clear beneficial effect on quality. The implantation
+      level of this strain was affected by S. cerevisiae competition since the highest 
+      level was found in grape marc with lower sugar content, where indigenous S.
+      cerevisiae were less persistent.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - Bovo, Barbara
+AU  - Bovo B
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro, PD, Italy.
+FAU - Carlot, Milena
+AU  - Carlot M
+AD  - Centro Interdipartimentale per la Ricerca in Viticoltura ed Enologia
+      (C.I.R.V.E.), Universita degli Studi di Padova, Conegliano, TV, Italy.
+FAU - Lombardi, Angiolella
+AU  - Lombardi A
+AD  - Istituto per la Qualita e le Tecnologie Agroalimentari, Veneto Agricoltura,
+      Thiene, VI, Italy.
+FAU - Lomolino, Giovanna
+AU  - Lomolino G
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro, PD, Italy.
+FAU - Lante, Anna
+AU  - Lante A
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro, PD, Italy.
+FAU - Giacomini, Alessio
+AU  - Giacomini A
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro, PD, Italy; Centro Interdipartimentale 
+      per la Ricerca in Viticoltura ed Enologia (C.I.R.V.E.), Universita degli Studi di
+      Padova, Conegliano, TV, Italy. Electronic address: alessio.giacomini@unipd.it.
+FAU - Corich, Viviana
+AU  - Corich V
+AD  - Dipartimento di Agronomia Animali Alimenti Risorse naturali e Ambiente,
+      Universita degli Studi di Padova, Legnaro, PD, Italy; Centro Interdipartimentale 
+      per la Ricerca in Viticoltura ed Enologia (C.I.R.V.E.), Universita degli Studi di
+      Padova, Conegliano, TV, Italy.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140124
+PL  - England
+TA  - Food Microbiol
+JT  - Food microbiology
+JID - 8601127
+RN  - 0 (Flavoring Agents)
+SB  - IM
+MH  - Fermentation
+MH  - Flavoring Agents/metabolism
+MH  - Humans
+MH  - Saccharomyces cerevisiae/*metabolism
+MH  - Saccharomycetales/classification/genetics/*isolation & purification/*metabolism
+MH  - *Taste
+MH  - Vitis/chemistry/metabolism/*microbiology
+MH  - Wine/analysis/*microbiology
+OTO - NOTNLM
+OT  - Aromatic compounds
+OT  - Distillate quality
+OT  - Grappa
+OT  - ITS-RFLP analysis
+OT  - Molecular characterization
+OT  - Non-Saccharomyces
+EDAT- 2014/04/23 06:00
+MHDA- 2015/01/22 06:00
+CRDT- 2014/04/23 06:00
+PHST- 2013/08/15 00:00 [received]
+PHST- 2013/12/03 00:00 [revised]
+PHST- 2014/01/07 00:00 [accepted]
+PHST- 2014/04/23 06:00 [entrez]
+PHST- 2014/04/23 06:00 [pubmed]
+PHST- 2015/01/22 06:00 [medline]
+AID - S0740-0020(14)00009-4 [pii]
+AID - 10.1016/j.fm.2014.01.006 [doi]
+PST - ppublish
+SO  - Food Microbiol. 2014 Aug;41:33-41. doi: 10.1016/j.fm.2014.01.006. Epub 2014 Jan
+      24.
+
+
+PMID- 24518311
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140902
+LR  - 20140212
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 154
+DP  - 2014 Jul 1
+TI  - Risk assessment for the Italian population of acetaldehyde in alcoholic and
+      non-alcoholic beverages.
+PG  - 26-31
+LID - 10.1016/j.foodchem.2013.12.098 [doi]
+LID - S0308-8146(13)01979-1 [pii]
+AB  - Acetaldehyde is a naturally-occurring carcinogenic compound, present in different
+      food items, especially in alcoholic beverages. The aims of this study were to
+      measure acetaldehyde concentration in different beverages consumed in Italy and
+      to estimate the potential cancer risk. The analytical procedure was based on
+      headspace solid-phase microextraction (SPME) and gas chromatography-mass
+      spectrometry (GC-MS), using the isotopic dilution method. The margin of exposure 
+      (MOE) approach of the European Food Safety Authority (EFSA) was used for risk
+      characterisation. The highest concentrations (median, min-max) were detected in
+      grappa samples (499, 23.4-1850mg/l), followed by fruit-based liqueurs and spirits
+      (62.0, 5.23-483mg/l) and wine (68.0, 18.1-477mg/l); the lowest were detected in
+      gin (0.91, 0.78-1.90mg/l). The lowest MOE was estimated for high wine consumers
+      (69). These results suggest that regulatory measures and consumer guidance may be
+      necessary for acetaldehyde in beverages.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - Paiano, Viviana
+AU  - Paiano V
+AD  - Department of Environmental Health Sciences, IRCCS - Istituto di Ricerche
+      Farmacologiche Mario Negri, via Giuseppe La Masa 19, 20156 Milan, Italy.
+      Electronic address: viviana.paiano@marionegri.it.
+FAU - Bianchi, Giancarlo
+AU  - Bianchi G
+AD  - Department of Environmental Health Sciences, IRCCS - Istituto di Ricerche
+      Farmacologiche Mario Negri, via Giuseppe La Masa 19, 20156 Milan, Italy.
+FAU - Davoli, Enrico
+AU  - Davoli E
+AD  - Department of Environmental Health Sciences, IRCCS - Istituto di Ricerche
+      Farmacologiche Mario Negri, via Giuseppe La Masa 19, 20156 Milan, Italy.
+FAU - Negri, Eva
+AU  - Negri E
+AD  - Department of Epidemiology, IRCCS - Istituto di Ricerche Farmacologiche Mario
+      Negri, via Giuseppe La Masa 19, 20156 Milan, Italy.
+FAU - Fanelli, Roberto
+AU  - Fanelli R
+AD  - Department of Environmental Health Sciences, IRCCS - Istituto di Ricerche
+      Farmacologiche Mario Negri, via Giuseppe La Masa 19, 20156 Milan, Italy.
+FAU - Fattore, Elena
+AU  - Fattore E
+AD  - Department of Environmental Health Sciences, IRCCS - Istituto di Ricerche
+      Farmacologiche Mario Negri, via Giuseppe La Masa 19, 20156 Milan, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20140108
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - GO1N1ZPR3B (Acetaldehyde)
+SB  - IM
+MH  - Acetaldehyde/*analysis
+MH  - Alcoholic Beverages/*analysis
+MH  - Beverages/*analysis
+MH  - Consumer Product Safety
+MH  - Food Contamination/*statistics & numerical data
+MH  - Italy
+MH  - Risk Assessment
+OTO - NOTNLM
+OT  - Acetaldehyde
+OT  - Alcohol
+OT  - Carcinogenicity
+OT  - Human exposure
+OT  - Risk
+EDAT- 2014/02/13 06:00
+MHDA- 2014/09/03 06:00
+CRDT- 2014/02/13 06:00
+PHST- 2013/10/21 00:00 [received]
+PHST- 2013/12/18 00:00 [revised]
+PHST- 2013/12/29 00:00 [accepted]
+PHST- 2014/02/13 06:00 [entrez]
+PHST- 2014/02/13 06:00 [pubmed]
+PHST- 2014/09/03 06:00 [medline]
+AID - S0308-8146(13)01979-1 [pii]
+AID - 10.1016/j.foodchem.2013.12.098 [doi]
+PST - ppublish
+SO  - Food Chem. 2014 Jul 1;154:26-31. doi: 10.1016/j.foodchem.2013.12.098. Epub 2014
+      Jan 8.
+
+
+PMID- 25785281
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160422
+LR  - 20191210
+IS  - 1537-744X (Electronic)
+IS  - 1537-744X (Linking)
+VI  - 2015
+DP  - 2015
+TI  - Sodium-glucose linked transporter-2 inhibitors in chronic kidney disease.
+PG  - 317507
+LID - 10.1155/2015/317507 [doi]
+AB  - SGLT2 inhibitors are new antihyperglycaemic agents whose ability to lower glucose
+      is directly proportional to GFR. Therefore, in chronic kidney disease (CKD) the
+      blood glucose lowering effect is reduced. Unlike many current therapies, the
+      mechanism of action of SGLT2 inhibitors is independent of insulin action or
+      beta-cell function. In addition, the mechanism of action of SGLT2 inhibitors is
+      complementary and not alternative to other antidiabetic agents. SGLT2 inhibitors 
+      could be potentially effective in attenuating renal hyperfiltration and,
+      consequently, the progression of CKD. Moreover, the reductions in intraglomerular
+      pressure, systemic blood pressure, and uric acid levels induced by SGLT
+      inhibition may potentially be of benefit in CKD subjects without diabetes.
+      However, at present, only few clinical studies were designed to evaluate the
+      effects of SGLT2 inhibitors in CKD. Consequently, safety and potential efficacy
+      beyond blood glucose lowering should be better clarified in CKD. In this paper we
+      provide an updated review of the use of SGLT2 inhibitors in clinical practice,
+      with particular attention on subjects with CKD.
+FAU - Zanoli, L
+AU  - Zanoli L
+AD  - Department of Internal Medicine, University of Catania, 95100 Catania, Italy.
+FAU - Granata, A
+AU  - Granata A
+AD  - Department of Nephrology, Presidio Ospedaliero Agrigento, 92100 Agrigento, Italy.
+FAU - Lentini, P
+AU  - Lentini P
+AD  - Department of Nephrology, San Bassiano Hospital, 36061 Bassano del Grappa, Italy.
+FAU - Rastelli, S
+AU  - Rastelli S
+AD  - Department of Internal Medicine, University of Catania, 95100 Catania, Italy.
+FAU - Fatuzzo, P
+AU  - Fatuzzo P
+AD  - Department of Internal Medicine, University of Catania, 95100 Catania, Italy.
+FAU - Rapisarda, F
+AU  - Rapisarda F
+AD  - Department of Internal Medicine, University of Catania, 95100 Catania, Italy.
+FAU - Castellino, P
+AU  - Castellino P
+AD  - Department of Internal Medicine, University of Catania, 95100 Catania, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20150215
+PL  - United States
+TA  - ScientificWorldJournal
+JT  - TheScientificWorldJournal
+JID - 101131163
+RN  - 0 (Glycated Hemoglobin A)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (SLC5A2 protein, human)
+RN  - 0 (Sodium-Glucose Transporter 2)
+RN  - 0 (Sodium-Glucose Transporter 2 Inhibitors)
+RN  - 0 (hemoglobin A1c protein, human)
+RN  - 0SAC974Z85 (Canagliflozin)
+RN  - 506T60A25R (Sorbitol)
+RN  - C596HWF74Z
+      (1,5-anhydro-1-(5-(4-ethoxybenzyl)-2-methoxy-4-methylphenyl)-1-thioglucitol)
+SB  - IM
+MH  - Animals
+MH  - Canagliflozin/adverse effects/therapeutic use
+MH  - Diabetes Mellitus, Type 2/drug therapy/physiopathology
+MH  - Diabetic Nephropathies/drug therapy/physiopathology
+MH  - Glomerular Filtration Rate
+MH  - Glycated Hemoglobin A/metabolism
+MH  - Humans
+MH  - Hypoglycemic Agents/adverse effects/*therapeutic use
+MH  - Renal Insufficiency, Chronic/*drug therapy/physiopathology
+MH  - Sodium-Glucose Transporter 2
+MH  - *Sodium-Glucose Transporter 2 Inhibitors
+MH  - Sorbitol/adverse effects/analogs & derivatives/therapeutic use
+PMC - PMC4345065
+EDAT- 2015/03/19 06:00
+MHDA- 2016/04/23 06:00
+CRDT- 2015/03/19 06:00
+PHST- 2014/07/24 00:00 [received]
+PHST- 2015/02/01 00:00 [revised]
+PHST- 2015/02/02 00:00 [accepted]
+PHST- 2015/03/19 06:00 [entrez]
+PHST- 2015/03/19 06:00 [pubmed]
+PHST- 2016/04/23 06:00 [medline]
+AID - 10.1155/2015/317507 [doi]
+PST - ppublish
+SO  - ScientificWorldJournal. 2015;2015:317507. doi: 10.1155/2015/317507. Epub 2015 Feb
+      15.
+
+
+PMID- 27003119
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170509
+LR  - 20191210
+IS  - 1873-264X (Electronic)
+IS  - 0731-7085 (Linking)
+VI  - 125
+DP  - 2016 Jun 5
+TI  - Microextraction by packed sorbent (MEPS)-UHPLC-UV: A simple and efficient method 
+      for the determination of five benzodiazepines in an alcoholic beverage.
+PG  - 48-53
+LID - 10.1016/j.jpba.2016.03.028 [doi]
+LID - S0731-7085(16)30146-7 [pii]
+AB  - This article describes a nano-scale method for the determination and
+      quantification of five benzodiazepines (BDZ) in an alcoholic grappa drink
+      (chlordiazepoxide; lorazepam; diazepam; oxazepam; medazepam). BDZ are typically
+      used in drug-facilitated crimes (DFC) for their accessibility and synergistic
+      effects with alcohol. Specimens collected on the crime scene must be rapidly
+      analyzed to prove the crime, though, in most cases, a very small amount is
+      available. Off-line MEPS extraction of diluted grappa samples proved to be an
+      efficient and reliable method for the recovery of the selected compounds.
+      Requiring a very small amount of extraction solvents, MEPS is an
+      environment-friendly technique. LC separation with UV detection was used as the
+      analytical technique because it is simple, robust, relatively economic and
+      easy-to-find in most laboratories. The method was validated in terms of
+      precision, accuracy and recovery. Limits of detection and quantitation were in
+      the range of 0.5-2ng/muL. Linearity (R(2)) spanned from 0.9994 and 1.0000. Intra-
+      and inter-day repeatabilities were lower than 12% at any concentration. Recovery 
+      percentages of an equivalent-to-real sample at three different concentrations
+      were between 70.7 and 74.1%.
+CI  - Copyright (c) 2016 Elsevier B.V. All rights reserved.
+FAU - Magrini, Laura
+AU  - Magrini L
+AD  - University of Urbino Carlo Bo, Dept. SPeA, LC-MS Laboratory, 61029 Urbino, Italy.
+      Electronic address: laura.magrini@uniurb.it.
+FAU - Cappiello, Achille
+AU  - Cappiello A
+AD  - University of Urbino Carlo Bo, Dept. SPeA, LC-MS Laboratory, 61029 Urbino, Italy.
+      Electronic address: achille.cappiello@uniurb.it.
+FAU - Famiglini, Giorgio
+AU  - Famiglini G
+AD  - University of Urbino Carlo Bo, Dept. SPeA, LC-MS Laboratory, 61029 Urbino, Italy.
+      Electronic address: giorgio.famiglini@uniurb.it.
+FAU - Palma, Pierangela
+AU  - Palma P
+AD  - University of Urbino Carlo Bo, Dept. SPeA, LC-MS Laboratory, 61029 Urbino, Italy.
+      Electronic address: pierangela.palma@uniurb.it.
+LA  - eng
+PT  - Journal Article
+PT  - Validation Study
+DEP - 20160314
+PL  - England
+TA  - J Pharm Biomed Anal
+JT  - Journal of pharmaceutical and biomedical analysis
+JID - 8309336
+RN  - 12794-10-4 (Benzodiazepines)
+SB  - IM
+MH  - Alcoholic Beverages/*analysis
+MH  - Benzodiazepines/*analysis
+MH  - Chromatography, High Pressure Liquid/*methods
+MH  - Limit of Detection
+MH  - Reference Standards
+MH  - Reproducibility of Results
+MH  - Spectrophotometry, Ultraviolet/*methods
+OTO - NOTNLM
+OT  - *Benzodiazepines
+OT  - *Forensic analysis
+OT  - *LC-UV analysis
+OT  - *MEPS extraction
+EDAT- 2016/03/24 06:00
+MHDA- 2017/05/10 06:00
+CRDT- 2016/03/23 06:00
+PHST- 2016/02/02 00:00 [received]
+PHST- 2016/03/10 00:00 [revised]
+PHST- 2016/03/11 00:00 [accepted]
+PHST- 2016/03/23 06:00 [entrez]
+PHST- 2016/03/24 06:00 [pubmed]
+PHST- 2017/05/10 06:00 [medline]
+AID - S0731-7085(16)30146-7 [pii]
+AID - 10.1016/j.jpba.2016.03.028 [doi]
+PST - ppublish
+SO  - J Pharm Biomed Anal. 2016 Jun 5;125:48-53. doi: 10.1016/j.jpba.2016.03.028. Epub 
+      2016 Mar 14.
+
+
+PMID- 29791112
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180717
+LR  - 20180717
+IS  - 0003-9225 (Print)
+IS  - 0003-9225 (Linking)
+VI  - 239
+IP  - 1-2
+DP  - 2017 Jan
+TI  - [Drinking study on the pharmacokinetics of the grappa congener 2-butanol].
+PG  - 27-35
+AB  - A drinking study on the pharmacokinetics of the typical grappa congeners
+      2-butanol and 2-butanone (methyl ethyl ketone) was performed. It was expected
+      that the concentration ratio might provide a means to estimate the time of
+      ingestion of a grappa beverage. Twelve subjects drank a volume of the grappa
+      "Vecchio di Prosecco" (42 vol%) to reach a blood alcohollevel of 1.20 %o. In the 
+      congener analyses in serum, a median 2-butanol concentration of 0.79 mg/1 (range 
+      0.45-1.34 mg/1) and of 1.01 mg/I (0.44-1.62 mg/1) for 2-butanone were measured.
+      The concentration-time curve was biphasic starting with a slow and plateau-like
+      elimination. However, considerable inter-individual differences were observed.
+      Only in 3 subjects, a 2-butanol : 2-butanone ratio below 1 suggested ingestion
+      within the last 6 hours. The majority of the subjects exhibited higher
+      concentrations of 2-butanone than of 2-butanol such that the ratio was always
+      smaller than 1. According to the present results the concentrations of 2-butanol 
+      and 2-butanone or their ratio do not provide a reliable basis to draw conclusions
+      on the time of grappa ingestion.
+FAU - Wunder, Cora
+AU  - Wunder C
+FAU - Rohde, Raphael
+AU  - Rohde R
+FAU - Trageser, Peter
+AU  - Trageser P
+FAU - Paulke, Alexander
+AU  - Paulke A
+FAU - Toennes, Stefan W
+AU  - Toennes SW
+LA  - ger
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Germany
+TA  - Arch Kriminol
+JT  - Archiv fur Kriminologie
+JID - 0002256
+RN  - 0 (Alcohols)
+RN  - 0 (Blood Alcohol Content)
+RN  - 0 (Butanols)
+RN  - 0TUL3ENK62 (2-butanol)
+SB  - IM
+MH  - Accidents, Traffic/*legislation & jurisprudence
+MH  - Adult
+MH  - Alcohols/pharmacokinetics
+MH  - *Blood Alcohol Content
+MH  - Butanols/*pharmacokinetics
+MH  - Chromatography, Gas
+MH  - Driving Under the Influence/*legislation & jurisprudence
+MH  - Expert Testimony/legislation & jurisprudence
+MH  - Female
+MH  - Flame Ionization
+MH  - Gas Chromatography-Mass Spectrometry
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+EDAT- 2017/01/01 00:00
+MHDA- 2018/07/18 06:00
+CRDT- 2018/05/24 06:00
+PHST- 2018/05/24 06:00 [entrez]
+PHST- 2017/01/01 00:00 [pubmed]
+PHST- 2018/07/18 06:00 [medline]
+PST - ppublish
+SO  - Arch Kriminol. 2017 Jan;239(1-2):27-35.
+
+
+PMID- 29995233
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200403
+LR  - 20200403
+IS  - 1432-5241 (Electronic)
+IS  - 0364-216X (Linking)
+VI  - 43
+IP  - 1
+DP  - 2019 Feb
+TI  - Sub-muscular Breast Augmentation Using Tumescent Local Anesthesia.
+PG  - 7-13
+LID - 10.1007/s00266-018-1181-3 [doi]
+AB  - BACKGROUND: Tumescent local anesthesia (TLA) consists of infiltration of saline
+      solution with lidocaine and epinephrine into the tissues to obtain regional
+      anesthesia and vasoconstriction. The use of TLA in augmentation mammoplasty has
+      been described for sub-glandular positioning. We describe a modified TLA
+      technique for primary sub-muscular breast augmentation reporting our experience
+      during the past 7 years. METHODS: From 2010 to 2017, 300 patients underwent
+      bilateral primary sub-muscular breast augmentation under TLA and conscious
+      sedation. The tumescent solution was prepared with 25 mL of 2% lidocaine, 8 mEq
+      of sodium bicarbonate, and 1 mL of epinephrine (1 mg/1 mL) in 1000 mL of 0.9%
+      saline solution. Firstly, the solution was infiltrated between the pectoral
+      fascia and the mammary gland, secondarily, during surgery, under the pectoralis
+      major muscle. RESULTS: The average amount of tumescent solution infiltrated while
+      performing TLA was 740 mL per breast. No signs of adrenaline or lidocaine
+      toxicity were reported and conversion to general anesthesia was never required.
+      In all patients, no pain nor discomfort was reported during the pre-operating
+      infiltration and surgical procedure. We reported a major complication rate of
+      3.3% (4 hematomas and 6 seromas) and a minor complication rate of 6.0% (8 implant
+      dislocation and 10 dystrophic scars formation). CONCLUSIONS: TLA represents a
+      safe and efficacious technique for performing breast augmentation surgery with
+      sub-muscular implant positioning. This technique guarantees good pain control
+      during and after surgery and has low incidence of postoperative side effects.
+      Patients subjected to sub-muscular breast augmentation with TLA were satisfied.
+      LEVEL OF EVIDENCE IV: This journal requires that authors assign a level of
+      evidence to each article. For a full description of these Evidence-Based Medicine
+      ratings, please refer to the Table of Contents or the online Instructions to
+      Authors www.springer.com/00266 .
+FAU - Bolletta, Alberto
+AU  - Bolletta A
+AD  - Department of Surgical, Microsurgical and Medical Sciences, Plastic Surgery Unit,
+      University of Sassari, Via Monte Grappa 70, 07100, Sassari, Italy.
+      alb.bolletta@gmail.com.
+FAU - Dessy, Luca Andrea
+AU  - Dessy LA
+AD  - Department of Plastic and Reconstructive Surgery, "La Sapienza" University of
+      Rome, Rome, Italy.
+FAU - Fiorot, Luca
+AU  - Fiorot L
+AD  - Department of Surgical, Microsurgical and Medical Sciences, Plastic Surgery Unit,
+      University of Sassari, Via Monte Grappa 70, 07100, Sassari, Italy.
+FAU - Tronci, Alessio
+AU  - Tronci A
+AD  - Anesthesia and Intensive Care Unit, University of Cagliari, Cagliari, Italy.
+FAU - Rusciani, Antonio
+AU  - Rusciani A
+AD  - Department of Plastic and Reconstructive Surgery, "La Sapienza" University of
+      Rome, Rome, Italy.
+FAU - Ciudad, Pedro
+AU  - Ciudad P
+AD  - Department of Plastic and Reconstructive Surgery, China Medical University
+      Hospital, Taichung, Taiwan.
+FAU - Trignano, Emilio
+AU  - Trignano E
+AD  - Department of Surgical, Microsurgical and Medical Sciences, Plastic Surgery Unit,
+      University of Sassari, Via Monte Grappa 70, 07100, Sassari, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20180711
+PL  - United States
+TA  - Aesthetic Plast Surg
+JT  - Aesthetic plastic surgery
+JID - 7701756
+RN  - 0 (Drug Combinations)
+RN  - 0 (Solutions)
+RN  - 8MDF5V39QO (Sodium Bicarbonate)
+RN  - 98PI200987 (Lidocaine)
+RN  - YKH834O4BH (Epinephrine)
+SB  - IM
+CIN - Aesthetic Plast Surg. 2019 Feb;43(1):14-15. PMID: 30535554
+MH  - Adult
+MH  - Anesthesia, Local/*methods
+MH  - Breast Implantation/*methods
+MH  - Breast Implants
+MH  - Cohort Studies
+MH  - Drug Combinations
+MH  - Epinephrine/*administration & dosage
+MH  - Esthetics
+MH  - Female
+MH  - Humans
+MH  - Lidocaine/*administration & dosage
+MH  - Middle Aged
+MH  - Pain Measurement
+MH  - Pectoralis Muscles/drug effects/*surgery
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Sodium Bicarbonate/*administration & dosage
+MH  - Solutions/administration & dosage
+MH  - Treatment Outcome
+MH  - Wound Healing/physiology
+OTO - NOTNLM
+OT  - *Breast augmentation
+OT  - *Breast implants
+OT  - *Sub-muscular
+OT  - *Tumescent local anesthesia
+EDAT- 2018/07/12 06:00
+MHDA- 2020/04/04 06:00
+CRDT- 2018/07/12 06:00
+PHST- 2018/02/12 00:00 [received]
+PHST- 2018/06/10 00:00 [accepted]
+PHST- 2018/07/12 06:00 [pubmed]
+PHST- 2020/04/04 06:00 [medline]
+PHST- 2018/07/12 06:00 [entrez]
+AID - 10.1007/s00266-018-1181-3 [doi]
+AID - 10.1007/s00266-018-1181-3 [pii]
+PST - ppublish
+SO  - Aesthetic Plast Surg. 2019 Feb;43(1):7-13. doi: 10.1007/s00266-018-1181-3. Epub
+      2018 Jul 11.
+
+
+PMID- 29512320
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180924
+LR  - 20180924
+IS  - 1445-5994 (Electronic)
+IS  - 1444-0903 (Linking)
+VI  - 48
+IP  - 3
+DP  - 2018 Mar
+TI  - Severe methanol poisoning with neurological sequelae: implications for diagnosis 
+      and management.
+PG  - 335-339
+LID - 10.1111/imj.13725 [doi]
+AB  - A 22-year-old woman presented with methanol toxicity manifesting as headache,
+      reduced conscious state and visual change after consuming home-made grappa. She
+      progressed to a coma with fixed mydriasis and severe acidaemia (pH 6.55). She was
+      treated with empirical antidote administration (intravenous ethanol) and enhanced
+      elimination through haemodialysis. She survived despite her delayed presentation 
+      but developed significant neurological sequelae, including visual impairment. We 
+      provide an overview of key elements of diagnosis and recent updates in treatment 
+      recommendations.
+CI  - (c) 2018 Royal Australasian College of Physicians.
+FAU - Holt, Nicolette R
+AU  - Holt NR
+AUID- ORCID: http://orcid.org/0000-0003-2122-8381
+AD  - Department of General Internal Medicine, Alfred Hospital, Melbourne, Victoria,
+      Australia.
+FAU - Nickson, Christopher P
+AU  - Nickson CP
+AD  - Intensive Care Unit, Alfred Hospital, Melbourne, Victoria, Australia.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Australia
+TA  - Intern Med J
+JT  - Internal medicine journal
+JID - 101092952
+RN  - 0 (Antidotes)
+RN  - Y4S76JWI15 (Methanol)
+SB  - IM
+MH  - Antidotes/administration & dosage
+MH  - Brain/*diagnostic imaging
+MH  - *Disease Management
+MH  - Female
+MH  - Humans
+MH  - Methanol/*poisoning
+MH  - Nervous System Diseases/*chemically induced/*diagnostic imaging/therapy
+MH  - Renal Dialysis/methods
+MH  - *Severity of Illness Index
+MH  - Young Adult
+OTO - NOTNLM
+OT  - metabolic disorder
+OT  - methanol poisoning
+OT  - neurotoxicity
+OT  - renal replacement therapy
+OT  - toxicology
+EDAT- 2018/03/08 06:00
+MHDA- 2018/09/25 06:00
+CRDT- 2018/03/08 06:00
+PHST- 2017/06/12 00:00 [received]
+PHST- 2017/10/22 00:00 [revised]
+PHST- 2017/10/22 00:00 [accepted]
+PHST- 2018/03/08 06:00 [entrez]
+PHST- 2018/03/08 06:00 [pubmed]
+PHST- 2018/09/25 06:00 [medline]
+AID - 10.1111/imj.13725 [doi]
+PST - ppublish
+SO  - Intern Med J. 2018 Mar;48(3):335-339. doi: 10.1111/imj.13725.
+
+
+PMID- 31690333
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200224
+LR  - 20200224
+IS  - 1746-4269 (Electronic)
+IS  - 1746-4269 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2019 Nov 5
+TI  - Plants in alcoholic beverages on the Croatian islands, with special reference to 
+      rakija travarica.
+PG  - 51
+LID - 10.1186/s13002-019-0332-1 [doi]
+AB  - BACKGROUND: This paper aims to record the species used for flavouring and making 
+      alcoholic drinks, mainly rakija, on the islands of the Adriatic (Croatia).
+      METHODS: Our data comes from 295 interviews performed on 36 islands, in both the 
+      Dalmatian and Kvarner areas of the Adriatic. RESULTS: Altogether, 114 species are
+      used-46% from wild locations only, 15% both wild and cultivated, 38% only
+      cultivated and two species are imported. The most common local alcohol is wine,
+      made without spices, but grape pomace distillate is often flavoured with single
+      or mixed species. The mix is called travarica. The most commonly used species are
+      Foeniculum vulgare Mill., Myrtus communis L., Salvia officinalis L., Ruta
+      graveolens L., Juniperus oxycedrus L., Ceratonia siliqua L., Juglans regia L.,
+      Citrus spp., Ficus carica L., Laurus nobilis L., Rosmarinus officinalis L.,
+      Artemisia absinthium L., Rosa centifolia L., Mentha x piperita L. and M. spicata 
+      L. Unfortunately, the widespread phenomenon of distilling Arbutus unedo L. fruits
+      and fermenting Juniperus 'wine' is now extinct. Apart from grapes, the only
+      commonly distilled fruit now is Ficus carica. CONCLUSIONS: It is striking that
+      nearly all the plants are either wild or cultivated locally, which, in addition
+      to the fact that the alcohol is made locally, shows the incredible local culinary
+      self-sufficiency of the area. The number of species used is also very impressive.
+FAU - Luczaj, Lukasz
+AU  - Luczaj L
+AUID- ORCID: http://orcid.org/0000-0001-5272-4826
+AD  - Institute of Biology and Biotechnology, University of Rzeszow, ul. Pigonia 1,
+      35-310, Rzeszow, Poland. lukasz.luczaj@interia.pl.
+FAU - Jug-Dujakovic, Marija
+AU  - Jug-Dujakovic M
+AD  - Institute for Adriatic Crops and Karst Reclamation, Put Duilova 11, 21000, Split,
+      Croatia.
+FAU - Dolina, Katija
+AU  - Dolina K
+AD  - Institute for Marine and Coastal Research, University of Dubrovnik, Kneza Damjana
+      Jude 12, PO Box 83, 20000, Dubrovnik, Croatia.
+FAU - Vitasovic-Kosic, Ivana
+AU  - Vitasovic-Kosic I
+AD  - Department of Agricultural Botany, Faculty of Agriculture, University of Zagreb, 
+      Svetosimunska cesta 25, 10000, Zagreb, Croatia.
+LA  - eng
+GR  - 2015/19/B/HS3/00471/Ministry of Science and Higher Education, the National
+      Science Centre in Poland (NCN)
+PT  - Journal Article
+DEP - 20191105
+PL  - England
+TA  - J Ethnobiol Ethnomed
+JT  - Journal of ethnobiology and ethnomedicine
+JID - 101245794
+SB  - IM
+MH  - *Alcoholic Beverages
+MH  - Croatia
+MH  - Ethnobotany
+MH  - Plants/*classification
+PMC - PMC6833235
+OTO - NOTNLM
+OT  - Alcohol
+OT  - Culinary independence
+OT  - Ethnobotany
+OT  - Grappa
+OT  - Mediterranean cuisine
+OT  - Travarica
+EDAT- 2019/11/07 06:00
+MHDA- 2020/02/25 06:00
+CRDT- 2019/11/07 06:00
+PHST- 2019/05/20 00:00 [received]
+PHST- 2019/10/09 00:00 [accepted]
+PHST- 2019/11/07 06:00 [entrez]
+PHST- 2019/11/07 06:00 [pubmed]
+PHST- 2020/02/25 06:00 [medline]
+AID - 10.1186/s13002-019-0332-1 [doi]
+AID - 10.1186/s13002-019-0332-1 [pii]
+PST - epublish
+SO  - J Ethnobiol Ethnomed. 2019 Nov 5;15(1):51. doi: 10.1186/s13002-019-0332-1.
+
+
+PMID- 33279348
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210120
+LR  - 20210120
+IS  - 1873-7072 (Electronic)
+IS  - 0308-8146 (Linking)
+VI  - 344
+DP  - 2021 May 15
+TI  - Changes in volatile compounds of grape pomace distillate (Italian grappa) during 
+      one-year ageing in oak and cherry barrels.
+PG  - 128658
+LID - S0308-8146(20)32520-6 [pii]
+LID - 10.1016/j.foodchem.2020.128658 [doi]
+AB  - The Italian grape pomace distillate grappa is often refined by ageing in wooden
+      barrels. Chemical changes of the volatile profile of two samples produced from a 
+      Cabernet Sauvignon/Merlot blend and Prosecco pomace both at two ethanol contents 
+      (55% and 68%) were studied during one-year ageing in cherry and oak barriques.
+      Grappa variety, ethanol content and barrel type strongly affected the volatiles
+      profile of the distillates. Oak-aged grappa contained 10-fold the wood volatiles 
+      of the cherry-aged one, but the latter had higher levels of syringaldehyde,
+      coniferaldehyde, and 3,4,5-trimethoxyphenol; 55% ethanol extracted higher levels 
+      of wood compounds and ethoxy-compounds were higher in the 68%-ethanol
+      distillates. Prosecco grappa extracted higher wood compounds and showed no
+      significant changes in the levels of fruity/floral esters and terpenols. Findings
+      of this study can be also useful in the development of new ageing processes of
+      distillates for which cherry barrels are still not used (e.g., brandy and
+      whisky).
+CI  - Copyright (c) 2020 Elsevier Ltd. All rights reserved.
+FAU - Mayr Marangon, Christine
+AU  - Mayr Marangon C
+AD  - Department of Agronomy, Food, Natural Resources, Animals and Environment
+      (DAFNAE), University of Padova, Viale dell'Universita 16, 35020 Legnaro, PD,
+      Italy.
+FAU - De Rosso, Mirko
+AU  - De Rosso M
+AD  - Council for Agricultural Research and Economics - Viticulture & Oenology
+      (CREA-VE), Viale XXVIII Aprile 26, 31015 Conegliano, TV, Italy.
+FAU - Carraro, Roberto
+AU  - Carraro R
+AD  - Council for Agricultural Research and Economics - Viticulture & Oenology
+      (CREA-VE), Viale XXVIII Aprile 26, 31015 Conegliano, TV, Italy.
+FAU - Flamini, Riccardo
+AU  - Flamini R
+AD  - Council for Agricultural Research and Economics - Viticulture & Oenology
+      (CREA-VE), Viale XXVIII Aprile 26, 31015 Conegliano, TV, Italy. Electronic
+      address: riccardo.flamini@crea.gov.it.
+LA  - eng
+PT  - Journal Article
+DEP - 20201127
+PL  - England
+TA  - Food Chem
+JT  - Food chemistry
+JID - 7702639
+RN  - 0 (Volatile Organic Compounds)
+SB  - IM
+MH  - Alcoholic Beverages/*analysis
+MH  - Odorants/analysis
+MH  - Vitis/*chemistry
+MH  - Volatile Organic Compounds/*analysis
+MH  - *Wood
+OTO - NOTNLM
+OT  - 3,4,5-Trimethoxyphenol (PubChem CID: 69505)
+OT  - Ageing
+OT  - Coniferaldehyde (PubChem CID: 5280536)
+OT  - Distillate
+OT  - Ethyl decanoate (PubChem CID: 8048)
+OT  - Ethyl hexanoate (PubChem CID: 31265)
+OT  - Ethyl octanoate (PubChem CID: 7799)
+OT  - Geraniol (PubChem CID: 637566)
+OT  - Grappa
+OT  - Linalool (PubChem CID: 6549)
+OT  - Mass spectrometry
+OT  - Syringaldehyde (PubChem CID: 8655)
+OT  - Vanillin (PubChem CID: 1183)
+OT  - Volatile compounds
+OT  - Wood barrel
+OT  - alpha-Terpineol (PubChem CID: 17100)
+EDAT- 2020/12/07 06:00
+MHDA- 2021/01/21 06:00
+CRDT- 2020/12/06 20:41
+PHST- 2020/07/27 00:00 [received]
+PHST- 2020/11/11 00:00 [revised]
+PHST- 2020/11/12 00:00 [accepted]
+PHST- 2020/12/07 06:00 [pubmed]
+PHST- 2021/01/21 06:00 [medline]
+PHST- 2020/12/06 20:41 [entrez]
+AID - S0308-8146(20)32520-6 [pii]
+AID - 10.1016/j.foodchem.2020.128658 [doi]
+PST - ppublish
+SO  - Food Chem. 2021 May 15;344:128658. doi: 10.1016/j.foodchem.2020.128658. Epub 2020
+      Nov 27.
+
+
+PMID- 33080053
+OWN - NLM
+STAT- Publisher
+LR  - 20201101
+IS  - 1398-9995 (Electronic)
+IS  - 0105-4538 (Linking)
+DP  - 2020 Oct 20
+TI  - Systemic allergic reactions induced by labile plant-food allergens: Seeking
+      potential cofactors. A multicenter study.
+LID - 10.1111/all.14634 [doi]
+AB  - BACKGROUND: Heat-and-pepsin-sensitive plant food allergens (PR-10 and profilin)
+      sometimes cause systemic reaction. OBJECTIVE: To detect the risk factors for
+      systemic reactions induced by labile food allergens. METHODS: A retrospective
+      multicenter study was performed on patients with a documented history of systemic
+      allergic reaction to labile plant food allergens and on age-matched controls with
+      a history of oral allergy syndrome (OAS) induced by the same foods. Offending
+      foods, their amount, and state (solid or liquid), and potential cofactors
+      (nonsteroidal anti-inflammatory drugs, protonic pump inhibitors, exercise,
+      alcohol, and fasting) were considered. RESULTS: We studied 89 patients and 81
+      controls. Sensitization to PR-10 or profilin, IgE to Bet v 1 and/or Bet v 2, and 
+      foods causing OAS were similar in the two groups. Twenty patients experienced >1 
+      systemic allergic reaction. Tree nuts, Rosaceae, Apiaceae, and soymilk were the
+      main offending foods. Seventeen (19%) patients were taking a PPI when the
+      systemic reaction occurred (vs 5% in controls; P < .025). The ingestion of the
+      offending food in liquid form (soymilk) was frequent among patients (15%) but
+      unusual among controls (2%; P < .025). Soy milk-induced systemic reactions were
+      independent of PPI treatment. Fasting and excess of allergen, but not NSAID and
+      exercise, were other relevant cofactors for systemic reactions. Systemic
+      reactions occurred without any identifiable cofactor in 39 (44%) cases.
+      CONCLUSION: PR-10- and profilin-induced systemic reactions are facilitated by
+      PPI, ingestion of large amounts of unprocessed foods, and fasting. Soybean
+      beverages represent a risk for PR-10 hypersensitive patients and should be
+      avoided.
+CI  - (c) 2020 EAACI and John Wiley and Sons A/S. Published by John Wiley and Sons Ltd.
+FAU - Asero, Riccardo
+AU  - Asero R
+AUID- ORCID: https://orcid.org/0000-0002-8277-1700
+AD  - Ambulatorio di Allergologia, Clinica san Carlo, Paderno Dugnano (MI), Italia.
+FAU - Ariano, Renato
+AU  - Ariano R
+AD  - Private Practice, Liguria, Italy.
+FAU - Aruanno, Arianna
+AU  - Aruanno A
+AD  - Fondazione Policlinico Universitario A. Gemelli- IRCCS Universita Cattolica del
+      Sacro Cuore, Roma, Italy.
+FAU - Barzaghi, Claudio
+AU  - Barzaghi C
+AD  - Ambulatorio di Allergologia, UOC Medicina, ASST Rhodenese, P.O Rho, Rho, Italia.
+FAU - Borrelli, Paolo
+AU  - Borrelli P
+AD  - SSD Dermatologia e Allergologia - Ospedale Beauregard, Aosta, Italia.
+FAU - Busa, Moira
+AU  - Busa M
+AD  - Ambulatorio di Allergologia U.O.S. Dermatologia Ospedale di Mirano (VE), Mirano, 
+      Italia.
+AD  - Ambulatorio di Allergologia Ospedale di Bassano del Grappa (VI), Bassano del
+      Grappa, Italia.
+FAU - Celi, Giorgio
+AU  - Celi G
+AD  - Clinica Villa Pia, Roma, Italy.
+FAU - Cinquini, Massimo
+AU  - Cinquini M
+AD  - SSVD Allergologia, Spedali Civili Brescia, Italia.
+FAU - Cortellini, Gabriele
+AU  - Cortellini G
+AD  - UOD Allergologia, Az Sanitaria della Romagna, Rimini, Italia.
+FAU - D'Auria, Francesca
+AU  - D'Auria F
+AD  - ASST Bergamo Ovest, Bergamo, Italia.
+FAU - De Carli, Marco
+AU  - De Carli M
+AD  - S.O.C Medicina 2, Presidio Ospedaliero "Santa Maria della Misericordia", Udine,
+      Italy.
+FAU - Di Paolo, Camilla
+AU  - Di Paolo C
+AD  - SSVD Allergologia, Spedali Civili Brescia, Italia.
+FAU - Garzi, Giulia
+AU  - Garzi G
+AD  - Ambulatorio di Allergologia, UOC Medicina Interna ed Immunologia Clinica,
+      Policlinico Umberto I, Roma, Italia.
+FAU - Lodi Rizzini, Fabio
+AU  - Lodi Rizzini F
+AD  - Dipartimento Scienze Cliniche e Sperimentali, Universita Studi Brescia / SSVD
+      Allergologia, Spedali Civili Brescia, Italy.
+FAU - Magnani, Monica
+AU  - Magnani M
+AD  - Allergologia U.O.C.P.S. AUSL Bologna, Bologna, Italia.
+FAU - Manzotti, Giuseppina
+AU  - Manzotti G
+AD  - Ambulatorio di Allergologia, Casa di Cura Beato Palazzolo, Bergamo, Italia.
+FAU - Marra, Alessandro
+AU  - Marra A
+AD  - Ambulatorio di Allergologia, UOC Medicina, ASST Rhodenese, P.O Rho, Rho, Italia.
+FAU - Miceli Sopo, Stefano
+AU  - Miceli Sopo S
+AD  - Pediatric Allergy Unit, Pediatrics Area, Department of Life Sciences and Public
+      Health, Policlinico Gemelli Fondazione Universitaria IRCCS, Universita Cattolica 
+      del Sacro Cuore, Roma, Italia.
+FAU - Murzilli, Francesco
+AU  - Murzilli F
+AD  - U.O.S.D. di Allergologia, Ospedale S.S. Filippo e Nicola, Avezzano (AQ), Italy.
+FAU - Nucera, Eleonora
+AU  - Nucera E
+AD  - Fondazione Policlinico Universitario A. Gemelli- IRCCS Universita Cattolica del
+      Sacro Cuore, Roma, Italy.
+FAU - Pinter, Elena
+AU  - Pinter E
+AD  - Ambulatorio di Allergologia, UOC Medicina Interna ed Immunologia Clinica,
+      Policlinico Umberto I, Roma, Italia.
+FAU - Pravettoni, Valerio
+AU  - Pravettoni V
+AD  - UOC General Medicine Immunology and Allergology - IRCCS Foudation Ca' Granda
+      Ospedale Maggiore Policlinico, Milan, Italy.
+FAU - Rivolta, Federica
+AU  - Rivolta F
+AD  - UOC General Medicine Immunology and Allergology - IRCCS Foudation Ca' Granda
+      Ospedale Maggiore Policlinico, Milan, Italy.
+FAU - Rizzi, Angela
+AU  - Rizzi A
+AD  - Fondazione Policlinico Universitario A. Gemelli- IRCCS Universita Cattolica del
+      Sacro Cuore, Roma, Italy.
+FAU - Saporiti, Nicoletta
+AU  - Saporiti N
+AD  - Unit of Immunology, Rheumatology, Allergy and Rare Diseases, IRCCS Ospedale San
+      Raffaele, Milano, Italy.
+FAU - Scala, Enrico
+AU  - Scala E
+AUID- ORCID: https://orcid.org/0000-0002-9391-9168
+AD  - Istituto Dermopatico dell'Immacolata, Rome, Italy.
+FAU - Villalta, Danilo
+AU  - Villalta D
+AD  - Immunologia e Allergologia, Ospedale S. Maria degli Angeli, Pordenone, Italia.
+FAU - Yacoub, Mona-Rita
+AU  - Yacoub MR
+AD  - Unit of Immunology, Rheumatology, Allergy and Rare Diseases, IRCCS Ospedale San
+      Raffaele, Milano, Italy.
+FAU - Zisa, Giuliana
+AU  - Zisa G
+AD  - S.S. Allergologia e Immunologia Clinica, S.C.D.U. Medicina Interna I - A.O.U.
+      Maggiore della Carita di Novara, Novara, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20201020
+PL  - Denmark
+TA  - Allergy
+JT  - Allergy
+JID - 7804028
+SB  - IM
+OTO - NOTNLM
+OT  - anaphylaxis
+OT  - food allergy
+OT  - pollen allergy
+EDAT- 2020/10/21 06:00
+MHDA- 2020/10/21 06:00
+CRDT- 2020/10/20 17:10
+PHST- 2020/07/20 00:00 [received]
+PHST- 2020/09/13 00:00 [revised]
+PHST- 2020/10/05 00:00 [accepted]
+PHST- 2020/10/21 06:00 [pubmed]
+PHST- 2020/10/21 06:00 [medline]
+PHST- 2020/10/20 17:10 [entrez]
+AID - 10.1111/all.14634 [doi]
+PST - aheadofprint
+SO  - Allergy. 2020 Oct 20. doi: 10.1111/all.14634.
+
