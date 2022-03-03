@@ -1,0 +1,126 @@
+;keywords;df_2021;df_2022;total;min;std;mean;max
+1;python;2;1;3;1;0.71;1.5;2
+2;xml;3;0;3;0;2.12;1.5;3
+3;pubmed;1;1;2;1;0.0;1.0;1
+4;software;2;0;2;0;1.41;1.0;2
+5;database;1;1;2;1;0.0;1.0;1
+6;health information interoperability;2;0;2;0;1.41;1.0;2
+7;cofactor regeneration;1;0;1;0;0.71;0.5;1
+8;publishing;1;0;1;0;0.71;0.5;1
+9;parsing;1;0;1;0;0.71;0.5;1
+10;open data;1;0;1;0;0.71;0.5;1
+11;ontological reasoning;1;0;1;0;0.71;0.5;1
+12;digital libraries;1;0;1;0;0.71;0.5;1
+13;algorithms analysis;1;0;1;0;0.71;0.5;1
+14;xylose mother liquor;1;0;1;0;0.71;0.5;1
+15;xylitol;1;0;1;0;0.71;0.5;1
+16;fermentation optimization;1;0;1;0;0.71;0.5;1
+17;developing countries;1;0;1;0;0.71;0.5;1
+18;mass spectrometry;0;1;1;0;0.71;0.5;1
+19;candida tropicalis;1;0;1;0;0.71;0.5;1
+20;inversion of control;1;0;1;0;0.71;0.5;1
+21;health informatics;1;0;1;0;0.71;0.5;1
+22;eprescription;1;0;1;0;0.71;0.5;1
+23;business process model and notation;1;0;1;0;0.71;0.5;1
+24;qr code;1;0;1;0;0.71;0.5;1
+25;tumor board;1;0;1;0;0.71;0.5;1
+26;openehr;1;0;1;0;0.71;0.5;1
+27;cbioportal;1;0;1;0;0.71;0.5;1
+28;highmed;1;0;1;0;0.71;0.5;1
+29;scintillation;1;0;1;0;0.71;0.5;1
+30;organic fluorophores;1;0;1;0;0.71;0.5;1
+31;cherenkov radiation;1;0;1;0;0.71;0.5;1
+32;open access;1;0;1;0;0.71;0.5;1
+33;dashboard;0;1;1;0;0.71;0.5;1
+34;quality control;0;1;1;0;0.71;0.5;1
+35;collaborative work;1;0;1;0;0.71;0.5;1
+36;visualization;0;1;1;0;0.71;0.5;1
+37;medical subject headings;0;1;1;0;0.71;0.5;1
+38;databases;0;1;1;0;0.71;0.5;1
+39;xinmailong injection;0;1;1;0;0.71;0.5;1
+40;network pharmacology;0;1;1;0;0.71;0.5;1
+41;myocardial ischemia;0;1;1;0;0.71;0.5;1
+42;protein kinase c;0;1;1;0;0.71;0.5;1
+43;pla 2;0;1;1;0;0.71;0.5;1
+44;personal health records;0;1;1;0;0.71;0.5;1
+45;medical records;0;1;1;0;0.71;0.5;1
+46;information storage and retrieval;0;1;1;0;0.71;0.5;1
+47;data mining;0;1;1;0;0.71;0.5;1
+48;user evaluation;0;1;1;0;0.71;0.5;1
+49;usability;0;1;1;0;0.71;0.5;1
+50;standardization;0;1;1;0;0.71;0.5;1
+51;safety;0;1;1;0;0.71;0.5;1
+52;patient safety;0;1;1;0;0.71;0.5;1
+53;medication errors;0;1;1;0;0.71;0.5;1
+54;chemotherapy regimens;0;1;1;0;0.71;0.5;1
+55;chemotherapy;0;1;1;0;0.71;0.5;1
+56;publication analysis;0;1;1;0;0.71;0.5;1
+57;parathyroid carcinoma;0;1;1;0;0.71;0.5;1
+58;natural language processing;0;1;1;0;0.71;0.5;1
+59;machine learning;0;1;1;0;0.71;0.5;1
+60;species partition format;0;1;1;0;0.71;0.5;1
+61;species delimitation programs;0;1;1;0;0.71;0.5;1
+62;integrative taxonomy;0;1;1;0;0.71;0.5;1
+63;spart;0;1;1;0;0.71;0.5;1
+64;literature search;1;0;1;0;0.71;0.5;1
+65;neural population;1;0;1;0;0.71;0.5;1
+66;simulator;1;0;1;0;0.71;0.5;1
+67;population density;1;0;1;0;0.71;0.5;1
+68;xianmao;1;0;1;0;0.71;0.5;1
+69;system management;1;0;1;0;0.71;0.5;1
+70;system diagnostics;1;0;1;0;0.71;0.5;1
+71;control interface;1;0;1;0;0.71;0.5;1
+72;wishbone;1;0;1;0;0.71;0.5;1
+73;vhdl;1;0;1;0;0.71;0.5;1
+74;fpga;1;0;1;0;0.71;0.5;1
+75;research data management;1;0;1;0;0.71;0.5;1
+76;enzymology;1;0;1;0;0.71;0.5;1
+77;data exchange;1;0;1;0;0.71;0.5;1
+78;bioinformatics;1;0;1;0;0.71;0.5;1
+79;biocatalysis;1;0;1;0;0.71;0.5;1
+80;systems biology markup language;1;0;1;0;0.71;0.5;1
+81;fair data principles;1;0;1;0;0.71;0.5;1
+82;traditional chinese medicine injection;1;0;1;0;0.71;0.5;1
+83;traditional chinese medicine;1;0;1;0;0.71;0.5;1
+84;randomized controlled trial;1;0;1;0;0.71;0.5;1
+85;heart failure;1;0;1;0;0.71;0.5;1
+86;bayesian model;1;0;1;0;0.71;0.5;1
+87;mapping scheme;1;0;1;0;0.71;0.5;1
+88;dynamic updates;1;0;1;0;0.71;0.5;1
+89;xml databases;1;0;1;0;0.71;0.5;1
+90;regulatory framework;1;0;1;0;0.71;0.5;1
+91;precision medicine;1;0;1;0;0.71;0.5;1
+92;policy note;1;0;1;0;0.71;0.5;1
+93;pharmacogenomics;1;0;1;0;0.71;0.5;1
+94;iran;1;0;1;0;0.71;0.5;1
+95;kidney energy metabolism;1;0;1;0;0.71;0.5;1
+96;metabolomics;1;0;1;0;0.71;0.5;1
+97;bioinformatics analysis;1;0;1;0;0.71;0.5;1
+98;inflammation;1;0;1;0;0.71;0.5;1
+99;dynamic challenges;1;0;1;0;0.71;0.5;1
+100;network;1;0;1;0;0.71;0.5;1
+101;dynamical systems;1;0;1;0;0.71;0.5;1
+102;gpu;1;0;1;0;0.71;0.5;1
+103;spark;1;0;1;0;0.71;0.5;1
+104;performance management;1;0;1;0;0.71;0.5;1
+105;mobile network;1;0;1;0;0.71;0.5;1
+106;hive;1;0;1;0;0.71;0.5;1
+107;complex xsd;1;0;1;0;0.71;0.5;1
+108;mitochondrial dysfunction;1;0;1;0;0.71;0.5;1
+109;liver injury;1;0;1;0;0.71;0.5;1
+110;lipopolysaccharide;1;0;1;0;0.71;0.5;1
+111;open source;1;0;1;0;0.71;0.5;1
+112;colorectal cancer;1;0;1;0;0.71;0.5;1
+113;medical oncology;1;0;1;0;0.71;0.5;1
+114;fhir;1;0;1;0;0.71;0.5;1
+115;data management;1;0;1;0;0.71;0.5;1
+116;temporal bone;1;0;1;0;0.71;0.5;1
+117;computed tomography;1;0;1;0;0.71;0.5;1
+118;cholesteatoma;1;0;1;0;0.71;0.5;1
+119;histogram analysis;1;0;1;0;0.71;0.5;1
+120;text mining;1;0;1;0;0.71;0.5;1
+121;text extraction;1;0;1;0;0.71;0.5;1
+122;pubmed central;1;0;1;0;0.71;0.5;1
+123;lncrnas;1;0;1;0;0.71;0.5;1
+124;immune cell infiltration;1;0;1;0;0.71;0.5;1
+125;web service;0;1;1;0;0.71;0.5;1

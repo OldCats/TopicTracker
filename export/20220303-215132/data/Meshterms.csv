@@ -1,0 +1,58 @@
+;meshterms;df_2021;df_2022;total;min;std;mean;max
+1;humans;17;0;17;0;12.02;8.5;17
+2;software;6;0;6;0;4.24;3.0;6
+3;computer security;2;0;2;0;1.41;1.0;2
+4;clinical trials as topic;2;0;2;0;1.41;1.0;2
+5;confidentiality;2;0;2;0;1.41;1.0;2
+6;medical oncology;2;0;2;0;1.41;1.0;2
+7;health level seven;2;0;2;0;1.41;1.0;2
+8;pubmed;1;1;2;1;0.0;1.0;1
+9;delivery of health care;2;0;2;0;1.41;1.0;2
+10;risk assessment;1;0;1;0;0.71;0.5;1
+11;referral and consultation;1;0;1;0;0.71;0.5;1
+12;fermentation;1;0;1;0;0.71;0.5;1
+13;industrial microbiology;1;0;1;0;0.71;0.5;1
+14;serologic tests;1;0;1;0;0.71;0.5;1
+15;viral load;1;0;1;0;0.71;0.5;1
+16;psychotherapy;1;0;1;0;0.71;0.5;1
+17;genomics;1;0;1;0;0.71;0.5;1
+18;precision medicine;1;0;1;0;0.71;0.5;1
+19;animals;1;0;1;0;0.71;0.5;1
+20;cell line;1;0;1;0;0.71;0.5;1
+21;drug interactions;1;0;1;0;0.71;0.5;1
+22;rats;1;0;1;0;0.71;0.5;1
+23;data mining;1;0;1;0;0.71;0.5;1
+24;mass spectrometry;1;0;1;0;0.71;0.5;1
+25;metabolomics;1;0;1;0;0.71;0.5;1
+26;bayes theorem;1;0;1;0;0.71;0.5;1
+27;computer simulation;1;0;1;0;0.71;0.5;1
+28;markov chains;1;0;1;0;0.71;0.5;1
+29;phylogeny;1;0;1;0;0.71;0.5;1
+30;sequence alignment;1;0;1;0;0.71;0.5;1
+31;medline;0;1;1;0;0.71;0.5;1
+32;european union;1;0;1;0;0.71;0.5;1
+33;public health;1;0;1;0;0.71;0.5;1
+34;triage;1;0;1;0;0.71;0.5;1
+35;solvents;1;0;1;0;0.71;0.5;1
+36;united arab emirates;1;0;1;0;0.71;0.5;1
+37;workflow;1;0;1;0;0.71;0.5;1
+38;adult;1;0;1;0;0.71;0.5;1
+39;algorithms;1;0;1;0;0.71;0.5;1
+40;electrocardiography;1;0;1;0;0.71;0.5;1
+41;female;1;0;1;0;0.71;0.5;1
+42;male;1;0;1;0;0.71;0.5;1
+43;middle aged;1;0;1;0;0.71;0.5;1
+44;programming languages;1;0;1;0;0.71;0.5;1
+45;patient satisfaction;1;0;1;0;0.71;0.5;1
+46;semantics;1;0;1;0;0.71;0.5;1
+47;electronics;1;0;1;0;0.71;0.5;1
+48;randomized controlled trials as topic;1;0;1;0;0.71;0.5;1
+49;surveys and questionnaires;1;0;1;0;0.71;0.5;1
+50;information storage and retrieval;1;0;1;0;0.71;0.5;1
+51;language;1;0;1;0;0.71;0.5;1
+52;pandemics;1;0;1;0;0.71;0.5;1
+53;retrospective studies;1;0;1;0;0.71;0.5;1
+54;patient safety;1;0;1;0;0.71;0.5;1
+55;equipment design;1;0;1;0;0.71;0.5;1
+56;particle accelerators;1;0;1;0;0.71;0.5;1
+57;united states;0;1;1;0;0.71;0.5;1
