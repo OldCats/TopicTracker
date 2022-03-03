@@ -15,6 +15,7 @@ dependencies:
   - numpy
   - ipywidgets
   - nbserverproxy
+  - voila
   - pip
   - pip:
     - jupyter-server-proxy
